@@ -27,7 +27,9 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th>Certificação</th>
+      <th width="500px">Certificação</th>
+      <th width="500px">Certificação</th>
+      <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
 
@@ -658,7 +660,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Agile Essentials</b>
 
-<img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="130"/>
 
 </td>
 
@@ -666,7 +668,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -680,7 +682,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Project Management Certificate</b>
 
-<img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="130"/>
 
 </td>
 
@@ -688,7 +690,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -702,7 +704,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Prompting Essentials</b>
 
-<img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="130"/>
 
 </td>
 
@@ -710,7 +712,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -724,7 +726,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Cybersecurity Certificate</b>
 
-<img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="105"/>
+<img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="130"/>
 
 </td>
 
@@ -732,7 +734,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -746,7 +748,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Data Analytics Certificate</b>
 
-<img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="130"/>
 
 </td>
 
@@ -754,7 +756,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -768,7 +770,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Digital Marketing & E-Commerce Certificate</b>
 
-<img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="105"/>
+<img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="130"/>
 
 </td>
 
@@ -776,7 +778,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -790,7 +792,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google UX Design Certificate</b>
 
-<img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="130"/>
 
 </td>
 
@@ -798,7 +800,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -812,7 +814,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Business Intelligence Certificate</b>
 
-<img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="105"/>
+<img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="130"/>
 
 </td>
 
@@ -820,7 +822,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -834,7 +836,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Advanced Data Analytics Certificate</b>
 
-<img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="105"/>
+<img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="130"/>
 
 </td>
 
@@ -842,7 +844,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -856,7 +858,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google People Management Essentials</b>
 
-<img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="105"/>
+<img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="120"/>
 
 </td>
 
@@ -864,7 +866,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="120"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -900,7 +902,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google/CompTIA dual credential</b>
 
-<img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="105"/>
+<img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="130"/>
 
 </td>
 
@@ -908,7 +910,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="130"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -922,7 +924,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <b>Google Cybersecurity Certificate & CompTIA Security+ dual credential</b>
 
-<img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="105"/>
+<img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="140"/>
 
 </td>
 
@@ -930,7 +932,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="140"/&gt;
 &lt;/a&gt;
 </pre>
 

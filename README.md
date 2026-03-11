@@ -24,11 +24,11 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="aws">AWS</h2>
 
-<table>
+<table style="width: 100%;">
 
 <tr>
-<th width="1000px">Certificação</th>
-<th>Código</th>
+      <th width="30%">Certificação</th>
+      <th width="70%">Código</th>
 </tr>
 
 <tr>
@@ -392,8 +392,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th width="1000px">Certificação</th>
-<th>Código</th>
+      <th width="30%">Certificação</th>
+      <th width="70%">Código</th>
 </tr>
 
 <tr>
@@ -604,8 +604,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th width="1000px">Certificação</th>
-<th>Código</th>
+      <th width="30%">Certificação</th>
+      <th width="70%">Código</th>
 </tr>
 
 <tr>

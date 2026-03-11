@@ -27,7 +27,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th width="500px">Certificação</th>
+<th width="1000px">Certificação</th>
 <th>Código</th>
 </tr>
 
@@ -392,7 +392,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th width="500px">Certificação</th>
+<th width="1000px">Certificação</th>
 <th>Código</th>
 </tr>
 
@@ -604,7 +604,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th width="500px">Certificação</th>
+<th width="1000px">Certificação</th>
 <th>Código</th>
 </tr>
 

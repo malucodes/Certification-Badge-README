@@ -27,7 +27,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th>Certificação</th>
+<th width="500px">Certificação</th>
 <th>Código</th>
 </tr>
 
@@ -392,8 +392,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th>Certificação</th>
-<th>Código para copiar</th>
+<th width="500px">Certificação</th>
+<th>Código</th>
 </tr>
 
 <tr>
@@ -410,7 +410,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
+  height="105"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -603,8 +604,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table>
 
 <tr>
-<th>Certificação</th>
-<th>Código para copiar</th>
+<th width="500px">Certificação</th>
+<th>Código</th>
 </tr>
 
 <tr>

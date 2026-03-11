@@ -24,7 +24,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="aws">AWS</h2>
 
-<table style="width: 100%;">
+<table style="width: 100%; overflow-x: auto;">
 
 <tr>
       <th width="30%">Certificação</th>
@@ -389,7 +389,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="microsoft">Microsoft</h2>
 
-<table style="width: 100%;">
+<table style="width: 100%; overflow-x: auto;">
 
 <tr>
       <th width="30%">Certificação</th>
@@ -601,7 +601,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="google">Google</h2>
 
-<table style="width: 100%;">
+<table style="width: 100%; overflow-x: auto;">
 
 <tr>
       <th width="30%">Certificação</th>

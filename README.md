@@ -24,11 +24,11 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="aws">AWS</h2>
 
-<table style="width: 100%; overflow-x: auto;">
+<table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th width="30%">Certificação</th>
-      <th width="70%">Código</th>
+      <th>Certificação</th>
+      <th>Código</th>
 </tr>
 
 <tr>
@@ -389,11 +389,11 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="microsoft">Microsoft</h2>
 
-<table style="width: 100%; overflow-x: auto;">
+<table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th width="30%">Certificação</th>
-      <th width="70%">Código</th>
+      <th>Certificação</th>
+      <th>Código</th>
 </tr>
 
 <tr>
@@ -601,11 +601,11 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="google">Google</h2>
 
-<table style="width: 100%; overflow-x: auto;">
+<table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th width="30%">Certificação</th>
-      <th width="70%">Código</th>
+      <th>Certificação</th>
+      <th>Código</th>
 </tr>
 
 <tr>

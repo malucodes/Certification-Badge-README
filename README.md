@@ -28,14 +28,12 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
       <th width="500px">Certificação</th>
-      <th width="500px">Certificação</th>
-      <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Cloud Practitioner</b>
 
@@ -43,7 +41,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -57,7 +55,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Solutions Architect – Associate</b>
 
@@ -65,7 +63,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -79,7 +77,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Developer – Associate</b>
 
@@ -87,7 +85,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -101,7 +99,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified AI Practitioner</b>
 
@@ -109,7 +107,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -123,7 +121,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Solutions Architect – Professional</b>
 
@@ -131,7 +129,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -145,7 +143,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Security – Specialty</b>
 
@@ -153,7 +151,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -167,7 +165,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified DevOps Engineer – Professional</b>
 
@@ -175,7 +173,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -189,7 +187,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Machine Learning – Specialty</b>
 
@@ -197,7 +195,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -211,7 +209,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Data Engineer – Associate</b>
 
@@ -219,7 +217,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -233,7 +231,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Advanced Networking – Specialty</b>
 
@@ -241,7 +239,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -255,7 +253,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Machine Learning Engineer – Associate</b>
 
@@ -263,7 +261,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -277,7 +275,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified CloudOps Engineer – Associate</b>
 
@@ -285,7 +283,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -299,7 +297,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Generative AI Developer - Professional</b>
 
@@ -307,7 +305,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -321,7 +319,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Certified Generative AI Developer - Professional Early Adopter</b>
 
@@ -329,7 +327,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -343,7 +341,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Agentic AI Demonstrated</b>
 
@@ -351,7 +349,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -365,7 +363,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>AWS Serverless Demonstrated</b>
 
@@ -373,7 +371,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -400,7 +398,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified: Azure Fundamentals</b>
 
@@ -408,7 +406,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -423,7 +421,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified: Azure AI Fundamentals</b>
 
@@ -431,7 +429,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -445,7 +443,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified: Azure Data Fundamentals</b>
 
@@ -453,7 +451,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -467,7 +465,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b>
 
@@ -475,7 +473,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -489,7 +487,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified: Power Platform Fundamentals</b>
 
@@ -497,7 +495,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -511,7 +509,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>MCE: Microsoft Certified Educator</b>
 
@@ -519,7 +517,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -533,7 +531,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified Trainer 2022-2023</b>
 
@@ -541,7 +539,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -555,7 +553,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Microsoft Certified Trainer 2023-2024</b>
 
@@ -563,7 +561,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -577,7 +575,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Artificial Intelligence Practitioner</b>
 
@@ -585,7 +583,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -612,7 +610,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google IT Support Certificate</b>
 
@@ -620,7 +618,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -634,7 +632,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google AI Essentials</b>
 
@@ -642,7 +640,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -656,7 +654,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Agile Essentials</b>
 
@@ -664,7 +662,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -678,7 +676,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Project Management Certificate</b>
 
@@ -686,7 +684,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -700,7 +698,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Prompting Essentials</b>
 
@@ -708,7 +706,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -722,7 +720,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Cybersecurity Certificate</b>
 
@@ -730,7 +728,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -744,7 +742,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Data Analytics Certificate</b>
 
@@ -752,7 +750,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -766,7 +764,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Digital Marketing & E-Commerce Certificate</b>
 
@@ -774,7 +772,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -788,7 +786,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google UX Design Certificate</b>
 
@@ -796,7 +794,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -810,7 +808,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Business Intelligence Certificate</b>
 
@@ -818,7 +816,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -832,7 +830,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Advanced Data Analytics Certificate</b>
 
@@ -840,7 +838,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -854,7 +852,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google People Management Essentials</b>
 
@@ -862,7 +860,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -876,7 +874,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google IT Automation with Python Certificate</b>
 
@@ -884,7 +882,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -898,7 +896,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google/CompTIA dual credential</b>
 
@@ -906,7 +904,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -920,7 +918,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Cybersecurity Certificate & CompTIA Security+ dual credential</b>
 
@@ -928,7 +926,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -942,7 +940,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Associate Cloud Engineer Certification</b>
 
@@ -950,7 +948,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -964,7 +962,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Cloud Digital Leader Certification</b>
 
@@ -972,7 +970,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -986,7 +984,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Cloud Architect Certification</b>
 
@@ -994,7 +992,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1008,7 +1006,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Generative AI Leader Certification</b>
 
@@ -1016,7 +1014,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1030,7 +1028,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Data Engineer Certification</b>
 
@@ -1038,7 +1036,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1052,7 +1050,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Machine Learning Engineer Certification</b>
 
@@ -1060,7 +1058,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1074,7 +1072,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Cloud DevOps Engineer Certification</b>
 
@@ -1082,7 +1080,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1096,7 +1094,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Cloud Security Engineer Certification</b>
 
@@ -1104,7 +1102,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1118,7 +1116,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Cloud Developer Certification</b>
 
@@ -1126,7 +1124,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1140,7 +1138,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Associate Data Practitioner Certification</b>
 
@@ -1148,7 +1146,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1162,7 +1160,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Cloud Database Engineer Certification</b>
 
@@ -1170,7 +1168,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1184,7 +1182,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Cloud Network Engineer Certification</b>
 
@@ -1192,7 +1190,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1206,7 +1204,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Google Workspace Administrator Certification</b>
 
@@ -1214,7 +1212,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1228,7 +1226,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Associate Google Workspace Administrator Certification</b>
 
@@ -1236,7 +1234,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1250,7 +1248,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Professional Security Operations Engineer Certification</b>
 
@@ -1258,7 +1256,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1272,7 +1270,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>LookML Developer</b>
 
@@ -1280,7 +1278,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1294,7 +1292,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Looker Business Analyst</b>
 
@@ -1302,7 +1300,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -1316,7 +1314,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <tr>
 
-<td align="center">
+<td align="center" style="vertical-align: middle;">
 
 <b>Google Cloud Certified Fellow: Hybrid Multicloud</b>
 
@@ -1324,7 +1322,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 </td>
 
-<td>
+<td style="vertical-align: middle;">
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;

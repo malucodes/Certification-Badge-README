@@ -389,7 +389,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="microsoft">Microsoft</h2>
 
-<table>
+<table style="width: 100%;">
 
 <tr>
       <th width="30%">Certificação</th>
@@ -601,7 +601,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <h2 id="google">Google</h2>
 
-<table>
+<table style="width: 100%;">
 
 <tr>
       <th width="30%">Certificação</th>

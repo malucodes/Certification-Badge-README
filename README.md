@@ -20,7 +20,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 - <a href="#microsoft">Microsoft</a>
 - <a href="#google">Google</a>
 - <a href="#ibm">IBM</a>
-- <a href="#oracle">Oracle</a>
+- <a href="#meta">Meta</a>
+- <a href="#comptia">CompTIA</a>
 
 ---
 
@@ -389,12 +390,69 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 ---
 
+<h2 id="comptia">CompTIA</h2>
+
+<table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
+
+<tr>
+      <th width="500px">Certificação</th>
+      <th>Código</th>
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>CompTIA A+ ce Certification</b>
+
+<img src="https://via.placeholder.com/105?text=CompTIA+A+" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://via.placeholder.com/105?text=CompTIA+A+" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>CompTIA Security+ ce Certification</b>
+
+<img src="https://via.placeholder.com/105?text=CompTIA+Security+" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://via.placeholder.com/105?text=CompTIA+Security+" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
 <h2 id="ibm">IBM</h2>
 
 <table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th>Certificação</th>
+      <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
 
@@ -1897,12 +1955,12 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 ---
 
-<h2 id="oracle">Oracle</h2>
+<h2 id="meta">Meta</h2>
 
 <table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th>Certificação</th>
+      <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
 
@@ -1910,9 +1968,9 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <td align="center" style="vertical-align: middle;">
 
-<b>Oracle Cloud Infrastructure Foundations Associate</b>
+<b>Meta Certified Digital Marketing Associate</b>
 
-<img src="https://images.credly.com/images/07d8009d-16a3-410e-a4e9-06bd744c8c76/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png" height="105"/>
 
 </td>
 
@@ -1920,7 +1978,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/07d8009d-16a3-410e-a4e9-06bd744c8c76/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png" height="105"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -1932,9 +1990,9 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <td align="center" style="vertical-align: middle;">
 
-<b>Oracle Certified Professional: Java SE 11 Developer</b>
+<b>Meta Certified Media Buying Professional</b>
 
-<img src="https://images.credly.com/images/59032483-3467-466d-9653-33df57a66d92/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/26af17c0-cddb-44b7-b865-007a2c1590c4/Cert_Media_Buying_Pro_800.png" height="105"/>
 
 </td>
 
@@ -1942,7 +2000,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/59032483-3467-466d-9653-33df57a66d92/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/26af17c0-cddb-44b7-b865-007a2c1590c4/Cert_Media_Buying_Pro_800.png" height="105"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -1954,9 +2012,9 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <td align="center" style="vertical-align: middle;">
 
-<b>Oracle Cloud Infrastructure 2024 Generative AI Professional</b>
+<b>Meta Certified Media Planning Professional</b>
 
-<img src="https://images.credly.com/images/5b8f7229-2244-4065-9856-121503803271/image.png" height="105"/>
+<img src="https://images.credly.com/size/680x680/images/9e0e1e9e-e385-4223-9dcb-d884aa223a70/Cert_Media_Planning_Pro_800.png" height="105"/>
 
 </td>
 
@@ -1964,7 +2022,623 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 <pre>
 &lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/5b8f7229-2244-4065-9856-121503803271/image.png" height="105"/&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/9e0e1e9e-e385-4223-9dcb-d884aa223a70/Cert_Media_Planning_Pro_800.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Creative Strategy Professional</b>
+
+<img src="https://images.credly.com/size/680x680/images/2c769c37-5b3a-4ed9-bae1-55b9fd817a86/Cert_Creative_Strategy_Pro_800px.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/2c769c37-5b3a-4ed9-bae1-55b9fd817a86/Cert_Creative_Strategy_Pro_800px.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Media Measurement Specialist</b>
+
+<img src="https://images.credly.com/size/680x680/images/8746f1d9-201f-4b45-92a9-0e29f537b9a3/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/8746f1d9-201f-4b45-92a9-0e29f537b9a3/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Community Management</b>
+
+<img src="https://images.credly.com/size/680x680/images/3b787669-52da-4c0c-8d17-218f52b14c83/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/3b787669-52da-4c0c-8d17-218f52b14c83/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified AI and Performance Marketing Specialist</b>
+
+<img src="https://images.credly.com/size/680x680/images/c40dd033-ae33-4558-8984-a31ad5a28dbe/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c40dd033-ae33-4558-8984-a31ad5a28dbe/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Marketing Science Professional</b>
+
+<img src="https://images.credly.com/size/680x680/images/89c6f0ec-5bad-4ae8-a86a-d53eeb117b44/Cert_Mar_Sci_Pro_800px.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/89c6f0ec-5bad-4ae8-a86a-d53eeb117b44/Cert_Mar_Sci_Pro_800px.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Technical Implementation Specialist</b>
+
+<img src="https://images.credly.com/size/680x680/images/195fc9a5-df1c-468e-958f-71a2f43d3fc7/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/195fc9a5-df1c-468e-958f-71a2f43d3fc7/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Full-Stack Engineer Certificate</b>
+
+<img src="https://images.credly.com/size/680x680/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Business Messaging Strategy</b>
+
+<img src="https://images.credly.com/size/680x680/images/29d7d345-9cbc-4c5e-8130-d21e10b5d70f/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/29d7d345-9cbc-4c5e-8130-d21e10b5d70f/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Business Marketing Strategy</b>
+
+<img src="https://images.credly.com/size/680x680/images/6667008a-b89d-4a01-8884-28cf4b0e438a/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/6667008a-b89d-4a01-8884-28cf4b0e438a/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Data Analyst Professional Certificate</b>
+
+<img src="https://images.credly.com/size/680x680/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified WhatsApp for Business Technical Implementation</b>
+
+<img src="https://images.credly.com/size/680x680/images/5f2190c6-edaa-468b-a579-4d6285bc8460/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/5f2190c6-edaa-468b-a579-4d6285bc8460/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Social Media Marketing Professional Certificate (v.2)</b>
+
+<img src="https://images.credly.com/size/680x680/images/0409dab5-6c94-4743-9b36-1819860bda6e/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/0409dab5-6c94-4743-9b36-1819860bda6e/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Front-End Developer Professional Certificate (v.1)</b>
+
+<img src="https://images.credly.com/size/680x680/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Lead Trainer</b>
+
+<img src="https://images.credly.com/size/680x680/images/119db190-e9a5-4368-b117-99f59ebbe1d6/Trainer_Lead_Trainer_Square_800.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/119db190-e9a5-4368-b117-99f59ebbe1d6/Trainer_Lead_Trainer_Square_800.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Media, Certified Company</b>
+
+<img src="https://images.credly.com/size/680x680/images/644368a1-1c75-4e63-bf52-3e366807f213/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/644368a1-1c75-4e63-bf52-3e366807f213/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Digital Marketing Associate Trainer</b>
+
+<img src="https://images.credly.com/size/680x680/images/1f2b7f62-b2e2-47a7-a82d-b421e370d628/Training_Digital_Marketing_Assoc_Trainer_Square_800.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/1f2b7f62-b2e2-47a7-a82d-b421e370d628/Training_Digital_Marketing_Assoc_Trainer_Square_800.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Back-End Developer Professional Certificate (v.1)</b>
+
+<img src="https://images.credly.com/size/680x680/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Community Management, Certified Company</b>
+
+<img src="https://images.credly.com/size/680x680/images/f71b59e7-93bc-49c8-98c0-52ffa7470895/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/f71b59e7-93bc-49c8-98c0-52ffa7470895/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Generalist Software Engineer Certificate</b>
+
+<img src="https://images.credly.com/size/680x680/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Marketing Analytics Professional Certificate (v.1)</b>
+
+<img src="https://images.credly.com/size/680x680/images/7f6cb922-a008-4b96-a44b-933ac89ac263/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/7f6cb922-a008-4b96-a44b-933ac89ac263/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Creative Strategy, Certified Company</b>
+
+<img src="https://images.credly.com/size/680x680/images/f39bf8c2-1f20-4c5d-bf8f-eba495b19b37/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/f39bf8c2-1f20-4c5d-bf8f-eba495b19b37/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Database Engineer Professional Certificate (v.1)</b>
+
+<img src="https://images.credly.com/size/680x680/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Marketing Science, Certified Company</b>
+
+<img src="https://images.credly.com/size/680x680/images/88927b82-223e-461f-8491-15fa66aafec4/image.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/88927b82-223e-461f-8491-15fa66aafec4/image.png" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Android Developer Professional Certificate (v.1)</b>
+
+<img src="https://images.credly.com/size/680x680/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta iOS Developer Professional Certificate (v.1)</b>
+
+<img src="https://images.credly.com/size/680x680/images/e9ca1fe8-5c26-445f-8994-1bb52578a27f/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/e9ca1fe8-5c26-445f-8994-1bb52578a27f/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>WhatsApp for Business Technical, Certified Company</b>
+
+<img src="https://images.credly.com/size/680x680/images/c7eb6a15-5432-4c4f-9ad2-e5011b207ae3/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c7eb6a15-5432-4c4f-9ad2-e5011b207ae3/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Business Messaging Strategy, Certified Company</b>
+
+<img src="https://images.credly.com/size/680x680/images/2f5b1ded-8bcd-489e-a59e-104c748c9ca0/blob" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/2f5b1ded-8bcd-489e-a59e-104c748c9ca0/blob" height="105"/&gt;
+&lt;/a&gt;
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="vertical-align: middle;">
+
+<b>Meta Certified Community Manager Associate Trainer</b>
+
+<img src="https://images.credly.com/size/680x680/images/0ed0c371-1078-46e0-aa8c-ccb37eec6b29/Training_Community_Manager_Assoc_Trainer_Square_800.png" height="105"/>
+
+</td>
+
+<td style="vertical-align: middle;">
+
+<pre>
+&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/0ed0c371-1078-46e0-aa8c-ccb37eec6b29/Training_Community_Manager_Assoc_Trainer_Square_800.png" height="105"/&gt;
 &lt;/a&gt;
 </pre>
 
@@ -1981,7 +2655,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th>Certificação</th>
+      <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
 
@@ -2193,7 +2867,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 <table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
 
 <tr>
-      <th>Certificação</th>
+      <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
 

@@ -36,355 +36,100 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 </tr>
 
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Cloud Practitioner</b>
-
-<img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Cloud Practitioner</b><br><img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Solutions Architect – Associate</b>
-
-<img src="https://i.postimg.cc/nV6Tv9pZ/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Solutions Architect – Associate</b><br><img src="https://i.postimg.cc/nV6Tv9pZ/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/nV6Tv9pZ/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Developer – Associate</b>
-
-<img src="https://i.postimg.cc/9zPYZggM/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Developer – Associate</b><br><img src="https://i.postimg.cc/9zPYZggM/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/9zPYZggM/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified AI Practitioner</b>
-
-<img src="https://i.postimg.cc/F1SnqxW3/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified AI Practitioner</b><br><img src="https://i.postimg.cc/F1SnqxW3/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/F1SnqxW3/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Solutions Architect – Professional</b>
-
-<img src="https://i.postimg.cc/nss1mHNZ/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Solutions Architect – Professional</b><br><img src="https://i.postimg.cc/nss1mHNZ/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/nss1mHNZ/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Security – Specialty</b>
-
-<img src="https://i.postimg.cc/1VyCwkpW/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Security – Specialty</b><br><img src="https://i.postimg.cc/1VyCwkpW/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/1VyCwkpW/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified DevOps Engineer – Professional</b>
-
-<img src="https://i.postimg.cc/Wd0ZcdRp/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified DevOps Engineer – Professional</b><br><img src="https://i.postimg.cc/Wd0ZcdRp/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/Wd0ZcdRp/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Machine Learning – Specialty</b>
-
-<img src="https://i.postimg.cc/F75s5Dhj/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Machine Learning – Specialty</b><br><img src="https://i.postimg.cc/F75s5Dhj/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/F75s5Dhj/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Data Engineer – Associate</b>
-
-<img src="https://i.postimg.cc/tYk0S5Js/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Data Engineer – Associate</b><br><img src="https://i.postimg.cc/tYk0S5Js/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/tYk0S5Js/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Advanced Networking – Specialty</b>
-
-<img src="https://i.postimg.cc/Mv3wZ5wx/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Advanced Networking – Specialty</b><br><img src="https://i.postimg.cc/Mv3wZ5wx/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/Mv3wZ5wx/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Machine Learning Engineer – Associate</b>
-
-<img src="https://i.postimg.cc/Kk0q79QW/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Machine Learning Engineer – Associate</b><br><img src="https://i.postimg.cc/Kk0q79QW/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/Kk0q79QW/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified CloudOps Engineer – Associate</b>
-
-<img src="https://i.postimg.cc/3kjZCSw-Q/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified CloudOps Engineer – Associate</b><br><img src="https://i.postimg.cc/3kjZCSw-Q/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/3kjZCSw-Q/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Generative AI Developer - Professional</b>
-
-<img src="https://i.postimg.cc/nCb7R45d/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Generative AI Developer - Professional</b><br><img src="https://i.postimg.cc/nCb7R45d/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/nCb7R45d/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Certified Generative AI Developer - Professional Early Adopter</b>
-
-<img src="https://i.postimg.cc/LqwhqRM2/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Certified Generative AI Developer - Professional Early Adopter</b><br><img src="https://i.postimg.cc/LqwhqRM2/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/LqwhqRM2/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Agentic AI Demonstrated</b>
-
-<img src="https://i.postimg.cc/KKS8Ff7G/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Agentic AI Demonstrated</b><br><img src="https://i.postimg.cc/KKS8Ff7G/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/KKS8Ff7G/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>AWS Serverless Demonstrated</b>
-
-<img src="https://i.postimg.cc/PCng5Rcj/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>AWS Serverless Demonstrated</b><br><img src="https://i.postimg.cc/PCng5Rcj/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/PCng5Rcj/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
 
 </table>
@@ -3191,687 +2936,191 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 </tr>
 
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Digital Marketing Associate</b>
-
-<img src="https://images.credly.com/size/680x680/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Digital Marketing Associate</b><br><img src="https://images.credly.com/size/680x680/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Media Buying Professional</b>
-
-<img src="https://images.credly.com/size/680x680/images/26af17c0-cddb-44b7-b865-007a2c1590c4/Cert_Media_Buying_Pro_800.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Media Buying Professional</b><br><img src="https://images.credly.com/size/680x680/images/26af17c0-cddb-44b7-b865-007a2c1590c4/Cert_Media_Buying_Pro_800.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/26af17c0-cddb-44b7-b865-007a2c1590c4/Cert_Media_Buying_Pro_800.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Media Planning Professional</b>
-
-<img src="https://images.credly.com/size/680x680/images/9e0e1e9e-e385-4223-9dcb-d884aa223a70/Cert_Media_Planning_Pro_800.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Media Planning Professional</b><br><img src="https://images.credly.com/size/680x680/images/9e0e1e9e-e385-4223-9dcb-d884aa223a70/Cert_Media_Planning_Pro_800.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/9e0e1e9e-e385-4223-9dcb-d884aa223a70/Cert_Media_Planning_Pro_800.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Creative Strategy Professional</b>
-
-<img src="https://images.credly.com/size/680x680/images/2c769c37-5b3a-4ed9-bae1-55b9fd817a86/Cert_Creative_Strategy_Pro_800px.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Creative Strategy Professional</b><br><img src="https://images.credly.com/size/680x680/images/2c769c37-5b3a-4ed9-bae1-55b9fd817a86/Cert_Creative_Strategy_Pro_800px.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/2c769c37-5b3a-4ed9-bae1-55b9fd817a86/Cert_Creative_Strategy_Pro_800px.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Media Measurement Specialist</b>
-
-<img src="https://images.credly.com/size/680x680/images/8746f1d9-201f-4b45-92a9-0e29f537b9a3/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Media Measurement Specialist</b><br><img src="https://images.credly.com/size/680x680/images/8746f1d9-201f-4b45-92a9-0e29f537b9a3/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/8746f1d9-201f-4b45-92a9-0e29f537b9a3/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Community Management</b>
-
-<img src="https://images.credly.com/size/680x680/images/3b787669-52da-4c0c-8d17-218f52b14c83/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Community Management</b><br><img src="https://images.credly.com/size/680x680/images/3b787669-52da-4c0c-8d17-218f52b14c83/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/3b787669-52da-4c0c-8d17-218f52b14c83/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified AI and Performance Marketing Specialist</b>
-
-<img src="https://images.credly.com/size/680x680/images/c40dd033-ae33-4558-8984-a31ad5a28dbe/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified AI and Performance Marketing Specialist</b><br><img src="https://images.credly.com/size/680x680/images/c40dd033-ae33-4558-8984-a31ad5a28dbe/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/c40dd033-ae33-4558-8984-a31ad5a28dbe/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Marketing Science Professional</b>
-
-<img src="https://images.credly.com/size/680x680/images/89c6f0ec-5bad-4ae8-a86a-d53eeb117b44/Cert_Mar_Sci_Pro_800px.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Marketing Science Professional</b><br><img src="https://images.credly.com/size/680x680/images/89c6f0ec-5bad-4ae8-a86a-d53eeb117b44/Cert_Mar_Sci_Pro_800px.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/89c6f0ec-5bad-4ae8-a86a-d53eeb117b44/Cert_Mar_Sci_Pro_800px.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Technical Implementation Specialist</b>
-
-<img src="https://images.credly.com/size/680x680/images/195fc9a5-df1c-468e-958f-71a2f43d3fc7/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Technical Implementation Specialist</b><br><img src="https://images.credly.com/size/680x680/images/195fc9a5-df1c-468e-958f-71a2f43d3fc7/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/195fc9a5-df1c-468e-958f-71a2f43d3fc7/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Full-Stack Engineer Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Full-Stack Engineer Certificate</b><br><img src="https://images.credly.com/size/680x680/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Business Messaging Strategy</b>
-
-<img src="https://images.credly.com/size/680x680/images/29d7d345-9cbc-4c5e-8130-d21e10b5d70f/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Business Messaging Strategy</b><br><img src="https://images.credly.com/size/680x680/images/29d7d345-9cbc-4c5e-8130-d21e10b5d70f/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/29d7d345-9cbc-4c5e-8130-d21e10b5d70f/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Business Marketing Strategy</b>
-
-<img src="https://images.credly.com/size/680x680/images/6667008a-b89d-4a01-8884-28cf4b0e438a/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Business Marketing Strategy</b><br><img src="https://images.credly.com/size/680x680/images/6667008a-b89d-4a01-8884-28cf4b0e438a/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/6667008a-b89d-4a01-8884-28cf4b0e438a/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Data Analyst Professional Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Data Analyst Professional Certificate</b><br><img src="https://images.credly.com/size/680x680/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified WhatsApp for Business Technical Implementation</b>
-
-<img src="https://images.credly.com/size/680x680/images/5f2190c6-edaa-468b-a579-4d6285bc8460/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified WhatsApp for Business Technical Implementation</b><br><img src="https://images.credly.com/size/680x680/images/5f2190c6-edaa-468b-a579-4d6285bc8460/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/5f2190c6-edaa-468b-a579-4d6285bc8460/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Social Media Marketing Professional Certificate (v.2)</b>
-
-<img src="https://images.credly.com/size/680x680/images/0409dab5-6c94-4743-9b36-1819860bda6e/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Social Media Marketing Professional Certificate (v.2)</b><br><img src="https://images.credly.com/size/680x680/images/0409dab5-6c94-4743-9b36-1819860bda6e/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/0409dab5-6c94-4743-9b36-1819860bda6e/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Front-End Developer Professional Certificate (v.1)</b>
-
-<img src="https://images.credly.com/size/680x680/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Front-End Developer Professional Certificate (v.1)</b><br><img src="https://images.credly.com/size/680x680/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/99da6577-cbee-4a69-9ee9-0680a44649de/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Lead Trainer</b>
-
-<img src="https://images.credly.com/size/680x680/images/119db190-e9a5-4368-b117-99f59ebbe1d6/Trainer_Lead_Trainer_Square_800.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Lead Trainer</b><br><img src="https://images.credly.com/size/680x680/images/119db190-e9a5-4368-b117-99f59ebbe1d6/Trainer_Lead_Trainer_Square_800.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/119db190-e9a5-4368-b117-99f59ebbe1d6/Trainer_Lead_Trainer_Square_800.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Media, Certified Company</b>
-
-<img src="https://images.credly.com/size/680x680/images/644368a1-1c75-4e63-bf52-3e366807f213/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Media, Certified Company</b><br><img src="https://images.credly.com/size/680x680/images/644368a1-1c75-4e63-bf52-3e366807f213/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/644368a1-1c75-4e63-bf52-3e366807f213/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Digital Marketing Associate Trainer</b>
-
-<img src="https://images.credly.com/size/680x680/images/1f2b7f62-b2e2-47a7-a82d-b421e370d628/Training_Digital_Marketing_Assoc_Trainer_Square_800.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Digital Marketing Associate Trainer</b><br><img src="https://images.credly.com/size/680x680/images/1f2b7f62-b2e2-47a7-a82d-b421e370d628/Training_Digital_Marketing_Assoc_Trainer_Square_800.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/1f2b7f62-b2e2-47a7-a82d-b421e370d628/Training_Digital_Marketing_Assoc_Trainer_Square_800.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Back-End Developer Professional Certificate (v.1)</b>
-
-<img src="https://images.credly.com/size/680x680/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Back-End Developer Professional Certificate (v.1)</b><br><img src="https://images.credly.com/size/680x680/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Community Management, Certified Company</b>
-
-<img src="https://images.credly.com/size/680x680/images/f71b59e7-93bc-49c8-98c0-52ffa7470895/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Community Management, Certified Company</b><br><img src="https://images.credly.com/size/680x680/images/f71b59e7-93bc-49c8-98c0-52ffa7470895/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/f71b59e7-93bc-49c8-98c0-52ffa7470895/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Generalist Software Engineer Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Generalist Software Engineer Certificate</b><br><img src="https://images.credly.com/size/680x680/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Marketing Analytics Professional Certificate (v.1)</b>
-
-<img src="https://images.credly.com/size/680x680/images/7f6cb922-a008-4b96-a44b-933ac89ac263/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Marketing Analytics Professional Certificate (v.1)</b><br><img src="https://images.credly.com/size/680x680/images/7f6cb922-a008-4b96-a44b-933ac89ac263/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/7f6cb922-a008-4b96-a44b-933ac89ac263/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Creative Strategy, Certified Company</b>
-
-<img src="https://images.credly.com/size/680x680/images/f39bf8c2-1f20-4c5d-bf8f-eba495b19b37/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Creative Strategy, Certified Company</b><br><img src="https://images.credly.com/size/680x680/images/f39bf8c2-1f20-4c5d-bf8f-eba495b19b37/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/f39bf8c2-1f20-4c5d-bf8f-eba495b19b37/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Database Engineer Professional Certificate (v.1)</b>
-
-<img src="https://images.credly.com/size/680x680/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Database Engineer Professional Certificate (v.1)</b><br><img src="https://images.credly.com/size/680x680/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Marketing Science, Certified Company</b>
-
-<img src="https://images.credly.com/size/680x680/images/88927b82-223e-461f-8491-15fa66aafec4/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Marketing Science, Certified Company</b><br><img src="https://images.credly.com/size/680x680/images/88927b82-223e-461f-8491-15fa66aafec4/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/88927b82-223e-461f-8491-15fa66aafec4/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Android Developer Professional Certificate (v.1)</b>
-
-<img src="https://images.credly.com/size/680x680/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Android Developer Professional Certificate (v.1)</b><br><img src="https://images.credly.com/size/680x680/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta iOS Developer Professional Certificate (v.1)</b>
-
-<img src="https://images.credly.com/size/680x680/images/e9ca1fe8-5c26-445f-8994-1bb52578a27f/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta iOS Developer Professional Certificate (v.1)</b><br><img src="https://images.credly.com/size/680x680/images/e9ca1fe8-5c26-445f-8994-1bb52578a27f/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/e9ca1fe8-5c26-445f-8994-1bb52578a27f/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>WhatsApp for Business Technical, Certified Company</b>
-
-<img src="https://images.credly.com/size/680x680/images/c7eb6a15-5432-4c4f-9ad2-e5011b207ae3/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>WhatsApp for Business Technical, Certified Company</b><br><img src="https://images.credly.com/size/680x680/images/c7eb6a15-5432-4c4f-9ad2-e5011b207ae3/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/c7eb6a15-5432-4c4f-9ad2-e5011b207ae3/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Business Messaging Strategy, Certified Company</b>
-
-<img src="https://images.credly.com/size/680x680/images/2f5b1ded-8bcd-489e-a59e-104c748c9ca0/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Business Messaging Strategy, Certified Company</b><br><img src="https://images.credly.com/size/680x680/images/2f5b1ded-8bcd-489e-a59e-104c748c9ca0/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/2f5b1ded-8bcd-489e-a59e-104c748c9ca0/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Meta Certified Community Manager Associate Trainer</b>
-
-<img src="https://images.credly.com/size/680x680/images/0ed0c371-1078-46e0-aa8c-ccb37eec6b29/Training_Community_Manager_Assoc_Trainer_Square_800.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Meta Certified Community Manager Associate Trainer</b><br><img src="https://images.credly.com/size/680x680/images/0ed0c371-1078-46e0-aa8c-ccb37eec6b29/Training_Community_Manager_Assoc_Trainer_Square_800.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/0ed0c371-1078-46e0-aa8c-ccb37eec6b29/Training_Community_Manager_Assoc_Trainer_Square_800.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 </table>
 
 ---
@@ -3886,204 +3135,59 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 </tr>
 
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified: Azure Fundamentals</b>
-
-<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
-  height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified: Azure Fundamentals</b><br><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified: Azure AI Fundamentals</b>
-
-<img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified: Azure AI Fundamentals</b><br><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified: Azure Data Fundamentals</b>
-
-<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified: Azure Data Fundamentals</b><br><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b>
-
-<img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b><br><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified: Power Platform Fundamentals</b>
-
-<img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified: Power Platform Fundamentals</b><br><img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>MCE: Microsoft Certified Educator</b>
-
-<img src="https://images.credly.com/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>MCE: Microsoft Certified Educator</b><br><img src="https://images.credly.com/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/54f7ea40-48bc-4217-b398-b81bae6de175/MCE.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified Trainer 2022-2023</b>
-
-<img src="https://images.credly.com/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified Trainer 2022-2023</b><br><img src="https://images.credly.com/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Microsoft Certified Trainer 2023-2024</b>
-
-<img src="https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certified Trainer 2023-2024</b><br><img src="https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Artificial Intelligence Practitioner</b>
-
-<img src="https://images.credly.com/images/362ca96d-afac-4122-afec-0ce650705c69/PNG.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Artificial Intelligence Practitioner</b><br><img src="https://images.credly.com/images/362ca96d-afac-4122-afec-0ce650705c69/PNG.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/362ca96d-afac-4122-afec-0ce650705c69/PNG.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 </table>
 
 ---
@@ -4098,729 +3202,202 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 </tr>
 
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google IT Support Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/7b6ff515-a2a0-4d01-a4e1-ac707697fdb1/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google IT Support Certificate</b><br><img src="https://images.credly.com/size/680x680/images/7b6ff515-a2a0-4d01-a4e1-ac707697fdb1/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/7b6ff515-a2a0-4d01-a4e1-ac707697fdb1/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google AI Essentials</b>
-
-<img src="https://i.postimg.cc/Tp23qmc4/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google AI Essentials</b><br><img src="https://i.postimg.cc/Tp23qmc4/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/Tp23qmc4/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Agile Essentials</b>
-
-<img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Agile Essentials</b><br><img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Project Management Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Project Management Certificate</b><br><img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Prompting Essentials</b>
-
-<img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Prompting Essentials</b><br><img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Cybersecurity Certificate</b>
-
-<img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Cybersecurity Certificate</b><br><img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Data Analytics Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Data Analytics Certificate</b><br><img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Digital Marketing & E-Commerce Certificate</b>
-
-<img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Digital Marketing & E-Commerce Certificate</b><br><img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/fc41b07a-152e-4599-808f-56cc6fd49da5/blob" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google UX Design Certificate</b>
-
-<img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google UX Design Certificate</b><br><img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/c5866d05-73f1-4dbf-b2b4-d8c740bb67cf/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Business Intelligence Certificate</b>
-
-<img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Business Intelligence Certificate</b><br><img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Advanced Data Analytics Certificate</b>
-
-<img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Advanced Data Analytics Certificate</b><br><img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/a3095823-9691-42e8-b080-de188a9998af/image.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google People Management Essentials</b>
-
-<img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="120"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google People Management Essentials</b><br><img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="120"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/3dfe015f-2045-430a-baf9-f28a7399ddb2/blob" height="120"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google IT Automation with Python Certificate</b>
-
-<img src="https://i.postimg.cc/62NYDBjw/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google IT Automation with Python Certificate</b><br><img src="https://i.postimg.cc/62NYDBjw/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://i.postimg.cc/62NYDBjw/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google/CompTIA dual credential</b>
-
-<img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="130"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google/CompTIA dual credential</b><br><img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="130"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/dfcdc098-970d-4663-a4e3-a8880ae38573/Copy_of_Google_CompTIA_Badge_NEW-02_copy.png" height="130"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Cybersecurity Certificate & CompTIA Security+ dual credential</b>
-
-<img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="140"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Cybersecurity Certificate & CompTIA Security+ dual credential</b><br><img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="140"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/1429c7d9-f9ed-4a39-b5dc-d60f80e375ab/blob" height="140"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Associate Cloud Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Associate Cloud Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Cloud Digital Leader Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Cloud Digital Leader Certification</b><br><img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Cloud Architect Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Cloud Architect Certification</b><br><img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Generative AI Leader Certification</b>
-
-<img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Generative AI Leader Certification</b><br><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Data Engineer Certification</b>
-
-<img src="https://images.credly.com/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Data Engineer Certification</b><br><img src="https://images.credly.com/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Machine Learning Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Machine Learning Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Cloud DevOps Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Cloud DevOps Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Cloud Security Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Cloud Security Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Cloud Developer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Cloud Developer Certification</b><br><img src="https://images.credly.com/size/680x680/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Associate Data Practitioner Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Associate Data Practitioner Certification</b><br><img src="https://images.credly.com/size/680x680/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Cloud Database Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Cloud Database Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Cloud Network Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Cloud Network Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Google Workspace Administrator Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Google Workspace Administrator Certification</b><br><img src="https://images.credly.com/size/680x680/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Associate Google Workspace Administrator Certification</b>
-
-<img src="https://images.credly.com/images/2a0b01fd-ef7b-4b82-b4d3-395df951f389/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Associate Google Workspace Administrator Certification</b><br><img src="https://images.credly.com/images/2a0b01fd-ef7b-4b82-b4d3-395df951f389/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/2a0b01fd-ef7b-4b82-b4d3-395df951f389/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Professional Security Operations Engineer Certification</b>
-
-<img src="https://images.credly.com/size/680x680/images/59ad6615-4b4c-4508-88f5-0c397597f437/blob" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Professional Security Operations Engineer Certification</b><br><img src="https://images.credly.com/size/680x680/images/59ad6615-4b4c-4508-88f5-0c397597f437/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/59ad6615-4b4c-4508-88f5-0c397597f437/blob" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>LookML Developer</b>
-
-<img src="https://images.credly.com/images/fdcc3c35-5a49-4dbc-a7d4-cc4629ea363c/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>LookML Developer</b><br><img src="https://images.credly.com/images/fdcc3c35-5a49-4dbc-a7d4-cc4629ea363c/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/fdcc3c35-5a49-4dbc-a7d4-cc4629ea363c/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Looker Business Analyst</b>
-
-<img src="https://images.credly.com/images/6e927736-deaf-44cf-bae5-22ca3f5ccb78/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Looker Business Analyst</b><br><img src="https://images.credly.com/images/6e927736-deaf-44cf-bae5-22ca3f5ccb78/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/images/6e927736-deaf-44cf-bae5-22ca3f5ccb78/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>Google Cloud Certified Fellow: Hybrid Multicloud</b>
-
-<img src="https://images.credly.com/size/680x680/images/7bed9101-fe30-4aba-9883-121ec5b786c4/image.png" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
+  <td align="center" style="vertical-align: middle;"><b>Google Cloud Certified Fellow: Hybrid Multicloud</b><br><img src="https://images.credly.com/size/680x680/images/7bed9101-fe30-4aba-9883-121ec5b786c4/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/7bed9101-fe30-4aba-9883-121ec5b786c4/image.png" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+&lt;/a&gt;</pre></td>
 </tr>
 
 </table>

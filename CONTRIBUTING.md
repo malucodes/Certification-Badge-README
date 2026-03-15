@@ -26,7 +26,6 @@ Exemplo:
       <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
-<pre><code>
 <tr>
   <td align="center" style="vertical-align: middle;"><b>BADGE_NAME</b><br><img src="BADGE_URL" height="105"/></td>
   <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
@@ -92,7 +91,6 @@ Example:
       <th width="500px">Certificação</th>
       <th>Código</th>
 </tr>
-<pre><code>
 <tr>
   <td align="center" style="vertical-align: middle;"><b>BADGE_NAME</b><br><img src="BADGE_URL" height="105"/></td>
   <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;

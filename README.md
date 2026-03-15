@@ -22,6 +22,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 - <a href="#ibm">IBM</a>
 - <a href="#meta">Meta</a>
 - <a href="#comptia">CompTIA</a>
+- <a href="#dio">DIO</a>
 
 ---
 
@@ -390,6 +391,968 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 ---
 
+<h2 id="dio">DIO (Digital Innovation One)</h2>
+
+<table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
+
+<tr>
+      <th width="500px">Certificação</th>
+      <th>Código</th>
+</tr>
+
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Lupo - Primeiros Passos com Inteligência Artificial</b><br><img src="https://assets.dio.me/Thxa-qNMBcJGwJ_PSsYS9SoM22zVyKCkvMm9qwknQH4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzJjOGU0MjgtN2NhOS00NTc1LWJiMDUtYjMxOTM3Y2FhN2FjLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Thxa-qNMBcJGwJ_PSsYS9SoM22zVyKCkvMm9qwknQH4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzJjOGU0MjgtN2NhOS00NTc1LWJiMDUtYjMxOTM3Y2FhN2FjLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Almaviva - Back-end com Java & QA</b><br><img src="https://assets.dio.me/mqrdyWtI3yDfkmO0hUB_yZUTGQezvOhZjGFzpc1dbRA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzM3ZDMzMzktM2RmZS00ZDU0LTg3NmYtYTNmNmRlNjMzZjExLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/mqrdyWtI3yDfkmO0hUB_yZUTGQezvOhZjGFzpc1dbRA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzM3ZDMzMzktM2RmZS00ZDU0LTg3NmYtYTNmNmRlNjMzZjExLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>TOTVS - Fundamentos de Engenharia de Dados e Machine Learning</b><br><img src="https://assets.dio.me/XoFLIzM0Bkuhr9cgbyqyNAJw9QpA0OdDQOioxUJf6ss/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODA1MzY4MjctNDg0Mi00YzliLWFiM2UtNzIzZDE0YTEzZTJiLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/XoFLIzM0Bkuhr9cgbyqyNAJw9QpA0OdDQOioxUJf6ss/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODA1MzY4MjctNDg0Mi00YzliLWFiM2UtNzIzZDE0YTEzZTJiLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2026 - Rust AI Developer</b><br><img src="https://assets.dio.me/1-szEK69OiO3EpD3OoyS41Jes-lq7VGnoNjhkgHl9B4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTNiOTlhYzYtMWUzYy00MDJmLTg0NmItMDYzMGU1MmE4MTRiLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/1-szEK69OiO3EpD3OoyS41Jes-lq7VGnoNjhkgHl9B4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTNiOTlhYzYtMWUzYy00MDJmLTg0NmItMDYzMGU1MmE4MTRiLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2026 - AI React Front-end</b><br><img src="https://assets.dio.me/tvcgA0gmXvyOcGjOdZz0dH0alck7FmLouEKn5_LUx-4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNWIzNmUxN2YtMTIwYy00ZjViLThiNmItNzkxZmNjNTI4YTgzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/tvcgA0gmXvyOcGjOdZz0dH0alck7FmLouEKn5_LUx-4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNWIzNmUxN2YtMTIwYy00ZjViLThiNmItNzkxZmNjNTI4YTgzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2026 - AI Java Back-end</b><br><img src="https://assets.dio.me/tk4C24QY6y3Vc9D8lYJYKG0YVaNxtwDQI422OnEhcCE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDcyYjJkNGMtNWUwNi00YzEzLTgxMmItYjgwMjk5ZmNlNzgzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/tk4C24QY6y3Vc9D8lYJYKG0YVaNxtwDQI422OnEhcCE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDcyYjJkNGMtNWUwNi00YzEzLTgxMmItYjgwMjk5ZmNlNzgzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Riachuelo - Cibersegurança</b><br><img src="https://assets.dio.me/wgQqMRP3S4dsoY55A0oVqUwMEW6ZUamLEfJOf1WNhDg/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmE0YjBiNDUtZGIzYi00YjE0LTg1MzUtZDdkOTllMjQyZmUzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/wgQqMRP3S4dsoY55A0oVqUwMEW6ZUamLEfJOf1WNhDg/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmE0YjBiNDUtZGIzYi00YjE0LTg1MzUtZDdkOTllMjQyZmUzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Jornada Para o Futuro - Node.js</b><br><img src="https://assets.dio.me/nkWachGc9IOpIVAhy6qiGhx7fqT2DJP6d9J_7nVaoKw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOWY3ZDZkODctZTRkZi00MjMwLTg2NzEtZjEyYjQxZDQwODA1LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/nkWachGc9IOpIVAhy6qiGhx7fqT2DJP6d9J_7nVaoKw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOWY3ZDZkODctZTRkZi00MjMwLTg2NzEtZjEyYjQxZDQwODA1LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander AI Youtube Creator</b><br><img src="https://assets.dio.me/WdZ1mx3t53a0TblAWnM1BXK-KmvwMvNxUlaaIb2OupA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWQyMDFmNDgtNGIzNS00YzFmLWE2OGYtN2MyNmRlYTA1NGJlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/WdZ1mx3t53a0TblAWnM1BXK-KmvwMvNxUlaaIb2OupA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWQyMDFmNDgtNGIzNS00YzFmLWE2OGYtN2MyNmRlYTA1NGJlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Luizalabs - Back-end com Python - 2º Edição</b><br><img src="https://assets.dio.me/0glDmNj2QgHb_9i_aNJURr5kZo-Tczv6tfCRD5E_VaY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTkxNWM5YjAtYTIxNi00NWI5LWE5ZTYtZDg5ZTcyMTRlZmE5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/0glDmNj2QgHb_9i_aNJURr5kZo-Tczv6tfCRD5E_VaY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTkxNWM5YjAtYTIxNi00NWI5LWE5ZTYtZDg5ZTcyMTRlZmE5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Bradesco - GenAI & Dados</b><br><img src="https://assets.dio.me/ru8pA8i2aVa8X5aicElCOLCyz9NkonLliJC9UUSPNSM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODVhZjJlMWQtNGJiMS00OGMyLTkxOGYtOTkxYWJmZjY1MGZiLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ru8pA8i2aVa8X5aicElCOLCyz9NkonLliJC9UUSPNSM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODVhZjJlMWQtNGJiMS00OGMyLTkxOGYtOTkxYWJmZjY1MGZiLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Blip - Lógica de Programação</b><br><img src="https://assets.dio.me/vct75NE1VUDDwzhmxOebSZidbl6wTSNE8y9pJIc50P0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDEyMjY3ZTAtNmJmNC00NjUyLWI3YjItNGM5YjU2OGI1YTA2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/vct75NE1VUDDwzhmxOebSZidbl6wTSNE8y9pJIc50P0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDEyMjY3ZTAtNmJmNC00NjUyLWI3YjItNGM5YjU2OGI1YTA2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GitHub Copilot - Código na Prática</b><br><img src="https://assets.dio.me/3AhYHwCLLIqipeT3zQkczwIICNK7OOE4m6w3JIlU0GM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjczODRmYTktYTFhZC00YmUzLWI3NDEtY2FjMTNmMTUyNzI5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/3AhYHwCLLIqipeT3zQkczwIICNK7OOE4m6w3JIlU0GM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjczODRmYTktYTFhZC00YmUzLWI3NDEtY2FjMTNmMTUyNzI5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CI&T - Backend com Java & AWS</b><br><img src="https://assets.dio.me/TRtwvj2kAPUwNirOuMX8n_kWHMejDETCPXpCyJ1TRnE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzUwMDg4YTYtN2MxMS00Zjc4LWEyYzctMTNiODQ3NTBlMGZiLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/TRtwvj2kAPUwNirOuMX8n_kWHMejDETCPXpCyJ1TRnE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzUwMDg4YTYtN2MxMS00Zjc4LWEyYzctMTNiODQ3NTBlMGZiLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Nexa - Machine Learning e GenAI na Prática</b><br><img src="https://assets.dio.me/bC92Ij0ZntissBTKwG-9GxOTPAFvzTdpUO7QRI-gW60/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmIyNWYwYjktZGQzMi00MzY3LWI1MmYtYmEyMzlhNGZiOTU5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/bC92Ij0ZntissBTKwG-9GxOTPAFvzTdpUO7QRI-gW60/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmIyNWYwYjktZGQzMi00MzY3LWI1MmYtYmEyMzlhNGZiOTU5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CAIXA - Inteligência Artificial na Prática</b><br><img src="https://assets.dio.me/uE_GG1uuhcWALEVe5dQRLl5BSovzlYHug3m7zoShiAQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTc4YzBhYmMtY2VhYS00ODk1LTg3NTItM2E3ODE0NWQ2ZGNlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/uE_GG1uuhcWALEVe5dQRLl5BSovzlYHug3m7zoShiAQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTc4YzBhYmMtY2VhYS00ODk1LTg3NTItM2E3ODE0NWQ2ZGNlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft - Azure Advanced #2</b><br><img src="https://assets.dio.me/g-6pYoB77IzVreP5eYCfR3D6_i0S7aoGMubMcYV3bu0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODA3NzE2ZDYtZWQxZi00NTBmLWFhMTktMDAwMzRkMzRjNGNkLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/g-6pYoB77IzVreP5eYCfR3D6_i0S7aoGMubMcYV3bu0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODA3NzE2ZDYtZWQxZi00NTBmLWFhMTktMDAwMzRkMzRjNGNkLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Accenture - Desenvolvimento Java & Cloud</b><br><img src="https://assets.dio.me/bYKfbyZItbrv5l8MP3EJf5fzq-Bb3Xacl_jLAQ29rEo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTljNWY0MGYtOWJmOC00NDBjLTk3ZTQtZTM1NmE1ZTBmOTNmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/bYKfbyZItbrv5l8MP3EJf5fzq-Bb3Xacl_jLAQ29rEo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTljNWY0MGYtOWJmOC00NDBjLTk3ZTQtZTM1NmE1ZTBmOTNmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Neo4J - Análise de Dados com Grafos</b><br><img src="https://assets.dio.me/ozEoJ3IWK8sw_MYhq2eOO1ENkKrwNAx2Aj6qYMBdaz4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTM1N2IwZTUtYTBlNS00Y2ExLThhOTctOThhZWVhYjE4NWJlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ozEoJ3IWK8sw_MYhq2eOO1ENkKrwNAx2Aj6qYMBdaz4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTM1N2IwZTUtYTBlNS00Y2ExLThhOTctOThhZWVhYjE4NWJlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Cognizant - Mobile Developer</b><br><img src="https://assets.dio.me/zyjjJsRfSm6tBfuGmo909Jrm6rZvg7Bl0a-Veek7eJE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMzRmYWU1MjEtYThjYy00ZWRhLWI5OWQtZDE1Y2Q0OTY5ZDhlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/zyjjJsRfSm6tBfuGmo909Jrm6rZvg7Bl0a-Veek7eJE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMzRmYWU1MjEtYThjYy00ZWRhLWI5OWQtZDE1Y2Q0OTY5ZDhlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Luizalabs - Back-end com Python (1º Edição)</b><br><img src="https://assets.dio.me/qtqB_pR8jXfjTNDfL8YGLBh_1z8dnzdmhqrdp1T4oxI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTgyZWE4YmYtNTQwYi00ODI3LThjZTktNTU2YWEzZTZlMzk1LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/qtqB_pR8jXfjTNDfL8YGLBh_1z8dnzdmhqrdp1T4oxI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTgyZWE4YmYtNTQwYi00ODI3LThjZTktNTU2YWEzZTZlMzk1LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>PcD Tech Bradesco - Java & QA Developer</b><br><img src="https://assets.dio.me/ExJ6qQv6OeW2-7JajGz10bCx4G7q43dt7noq6aSYrPM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTMzODg5ZGUtNTU3My00Zjc1LTkwODItMDRlYjEwMDJlYTFkLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ExJ6qQv6OeW2-7JajGz10bCx4G7q43dt7noq6aSYrPM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTMzODg5ZGUtNTU3My00Zjc1LTkwODItMDRlYjEwMDJlYTFkLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Nexa - Fundamentos de IA Generativa com Bedrock</b><br><img src="https://assets.dio.me/Tor7C1Y0uXHKKgXfB-kqYLCVNTo9P0zBMa1zLbDum6M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2JjY2RhZTAtYjMyNC00ZGQ5LWI5ODctMmQ4ODg0YmZiMTY3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Tor7C1Y0uXHKKgXfB-kqYLCVNTo9P0zBMa1zLbDum6M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2JjY2RhZTAtYjMyNC00ZGQ5LWI5ODctMmQ4ODg0YmZiMTY3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>TQI - Modernização com GenAI</b><br><img src="https://assets.dio.me/Dd-wEyIHIvJBPzwiWCCfMjq1ChilazkhvVkPybYASxY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmM0ZWQ3Y2ItNjNhMi00MDQxLTk4MDAtZDA2ZDg2MGQxOGQ5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Dd-wEyIHIvJBPzwiWCCfMjq1ChilazkhvVkPybYASxY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmM0ZWQ3Y2ItNjNhMi00MDQxLTk4MDAtZDA2ZDg2MGQxOGQ5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - EducaIA</b><br><img src="https://assets.dio.me/5v-VeGZ3WKt769FZXPZ8KKAdcsFLtjq6j3rYl6jN910/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGVlODViMTctMmFmYS00ZTQyLWJjNTMtYzM0M2I4ZWI2MGRjLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/5v-VeGZ3WKt769FZXPZ8KKAdcsFLtjq6j3rYl6jN910/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGVlODViMTctMmFmYS00ZTQyLWJjNTMtYzM0M2I4ZWI2MGRjLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Universia - Fundamentos de IA Generativa</b><br><img src="https://assets.dio.me/Pb9xG-PvDk7IZkKz6LTtdO_KY0xWUakQITDEnitmf_M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTdjNjViNmEtYWUzMS00OTM3LThhMGUtZTMyODVkMWRlOGU2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Pb9xG-PvDk7IZkKz6LTtdO_KY0xWUakQITDEnitmf_M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTdjNjViNmEtYWUzMS00OTM3LThhMGUtZTMyODVkMWRlOGU2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2025 - Automação com N8N</b><br><img src="https://assets.dio.me/AmCIKNey47db8GCPI9cbPK_ylWiACnT1SQyBoujOYmo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOThiMDRkNzktMjI5Ni00MGZlLThjNjctMjI0OTc4Y2E0ZjZkLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/AmCIKNey47db8GCPI9cbPK_ylWiACnT1SQyBoujOYmo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOThiMDRkNzktMjI5Ni00MGZlLThjNjctMjI0OTc4Y2E0ZjZkLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2025 - Fundamentos de Lógica de Programação</b><br><img src="https://assets.dio.me/NP7ZhCw5C6ch7Zkw0Jp2ZaGoEFt0IElElaYw2vD137k/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTFmMDg5N2YtODk4Ni00YTkwLWIxOTItNzkwYzc5ZmNiMTg0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/NP7ZhCw5C6ch7Zkw0Jp2ZaGoEFt0IElElaYw2vD137k/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTFmMDg5N2YtODk4Ni00YTkwLWIxOTItNzkwYzc5ZmNiMTg0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2025 - Ciência de Dados com Python</b><br><img src="https://assets.dio.me/ZFFBuG_27onW9wQTOUBdeLQGr93Poc-hLQS95QtPoEA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMGNiMDkzYTUtZjc5YS00MmJjLWE2ZTQtMjZmMDRhOTJhZTgxLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ZFFBuG_27onW9wQTOUBdeLQGr93Poc-hLQS95QtPoEA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMGNiMDkzYTUtZjc5YS00MmJjLWE2ZTQtMjZmMDRhOTJhZTgxLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Avanade - Back-end com .NET e IA</b><br><img src="https://assets.dio.me/94UFtgabgVoxzmb2R7HDUXH3HXZKCRzgrOlrqL0-7lY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjRjYTVjYmMtMTIyMC00ZGY3LWI5YjUtMDk0MmQzMDExOGExLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/94UFtgabgVoxzmb2R7HDUXH3HXZKCRzgrOlrqL0-7lY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjRjYTVjYmMtMTIyMC00ZGY3LWI5YjUtMDk0MmQzMDExOGExLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Akad - Fullstack Developer</b><br><img src="https://assets.dio.me/Ew0DqBg49ACgIScYuEt2I88FkvVzHQX4N8ELXh-Fqjc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjI1OGZlZjgtNzIyYy00YTEwLWE1ZTUtNDNjM2U1MWMzOWQzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Ew0DqBg49ACgIScYuEt2I88FkvVzHQX4N8ELXh-Fqjc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjI1OGZlZjgtNzIyYy00YTEwLWE1ZTUtNDNjM2U1MWMzOWQzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Riachuelo - Primeiros Passos com Java</b><br><img src="https://assets.dio.me/Bsh_uVDgrvJd_YQjK4B4kdkBjjPcoC_iV98L3X8aZ5Y/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTgwMGFlMGMtN2JiMi00ZWRlLTljNmYtNWU1YTZmMmE4Y2ZkLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Bsh_uVDgrvJd_YQjK4B4kdkBjjPcoC_iV98L3X8aZ5Y/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTgwMGFlMGMtN2JiMi00ZWRlLTljNmYtNWU1YTZmMmE4Y2ZkLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Start #7 .NET</b><br><img src="https://assets.dio.me/iRwHduzrmVW7U2hvouSAoSA6cb3ZzHxgyihvZciWttc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZGEyZTFmODQtMzBlYy00NDBlLWI4OWYtNTdlZmRiMjgxZDI5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/iRwHduzrmVW7U2hvouSAoSA6cb3ZzHxgyihvZciWttc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZGEyZTFmODQtMzBlYy00NDBlLWI4OWYtNTdlZmRiMjgxZDI5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>TIVIT - .Net com GitHub Copilot</b><br><img src="https://assets.dio.me/Df8yN8Fzz-EtDWHzS-yMc4_c40nDI865HPaugL9dJQk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDNkOTY0YWEtY2E0My00MTU5LTk0MDktMWM4ODYzYjY2YzU5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Df8yN8Fzz-EtDWHzS-yMc4_c40nDI865HPaugL9dJQk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDNkOTY0YWEtY2E0My00MTU5LTk0MDktMWM4ODYzYjY2YzU5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Start #7 - Java</b><br><img src="https://assets.dio.me/As8myBYsfwAqBuWvNCCNP93osO5YM6i9xVRjhd5et28/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjAzMzliMjgtNzJjNy00ZWE4LTkxYzctNWE0Y2I4NTA5ZGFlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/As8myBYsfwAqBuWvNCCNP93osO5YM6i9xVRjhd5et28/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjAzMzliMjgtNzJjNy00ZWE4LTkxYzctNWE0Y2I4NTA5ZGFlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - Cibersegurança 2025</b><br><img src="https://assets.dio.me/90yVOp7AKLkff3B7pjTeHNnWte--AoAW5tYu42DKOTw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODJmNWI4YTQtMjYxNS00NGJiLWEyYzctN2U1NmU4YzRiMmM2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/90yVOp7AKLkff3B7pjTeHNnWte--AoAW5tYu42DKOTw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODJmNWI4YTQtMjYxNS00NGJiLWEyYzctN2U1NmU4YzRiMmM2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Deal Group - AI Centric .NET</b><br><img src="https://assets.dio.me/IeEuXP8J4jx7Pf6czAvuvQ0josS2B6iAQG_tqMYkbbE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTI2MjIyOTQtODU5Zi00MDU3LTgxNWUtYmE0NTM4NmRlNTZhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/IeEuXP8J4jx7Pf6czAvuvQ0josS2B6iAQG_tqMYkbbE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMTI2MjIyOTQtODU5Zi00MDU3LTgxNWUtYmE0NTM4NmRlNTZhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Randstad - Análise de Dados</b><br><img src="https://assets.dio.me/2YOw4nsD4lEhoFePvOJXdOkdl932FrD8kTzLJV2vHaI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMmM2ZjE1NDgtYTJkNy00M2ZiLTg2OWEtMDU2NmIyYzBkNjA3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/2YOw4nsD4lEhoFePvOJXdOkdl932FrD8kTzLJV2vHaI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMmM2ZjE1NDgtYTJkNy00M2ZiLTg2OWEtMDU2NmIyYzBkNjA3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>BairesDev - Machine Learning Training</b><br><img src="https://assets.dio.me/jPBpYwvF38vkNxg8owCEPk5OUOWKcujnWnItw1umaFs/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOWM5ODBiNTItMGI0Mi00MmJhLWEwZTktMDVhMWE1NGRiZjc2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jPBpYwvF38vkNxg8owCEPk5OUOWKcujnWnItw1umaFs/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOWM5ODBiNTItMGI0Mi00MmJhLWEwZTktMDVhMWE1NGRiZjc2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Savegnago - Lógica de Programação</b><br><img src="https://assets.dio.me/UhhZ_70STvHrgeRtPEXu6Qjz8FXY4Pm5xB4_2nDAEB0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDljZjNmMDgtMDRjNC00MzFhLThhNTQtMzdlZDVmNDRjYTk2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/UhhZ_70STvHrgeRtPEXu6Qjz8FXY4Pm5xB4_2nDAEB0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDljZjNmMDgtMDRjNC00MzFhLThhNTQtMzdlZDVmNDRjYTk2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>meutudo - Mobile Developer</b><br><img src="https://assets.dio.me/VyjuF0IEOVUXVLq2KB7SoC9XGroSzwjgxa9IhY-jEj0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjU2ZjRmOGMtNmU2ZS00Mjk1LTkwYjQtYTk3OGUzZmM3MjVmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/VyjuF0IEOVUXVLq2KB7SoC9XGroSzwjgxa9IhY-jEj0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjU2ZjRmOGMtNmU2ZS00Mjk1LTkwYjQtYTk3OGUzZmM3MjVmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>NTT DATA - Java e IA para Iniciantes</b><br><img src="https://assets.dio.me/4OLRVb-nQRlJUhi5BqgAlSHqH6W1ncfk-8E2kFqvlJo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmE3NzgyOTQtODIwZS00NTVhLTkxNjctOTU1YzYxYjZmMjZjLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/4OLRVb-nQRlJUhi5BqgAlSHqH6W1ncfk-8E2kFqvlJo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmE3NzgyOTQtODIwZS00NTVhLTkxNjctOTU1YzYxYjZmMjZjLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Code Girls - 2025</b><br><img src="https://assets.dio.me/81DHchoi-T1ehbloW-3MgbTUtGOp0velSC2pER7GaG4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmQzMzRmMDktZmFmMy00Mzc1LTk2ZTctYjcwMTIxZmI5YTkyLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/81DHchoi-T1ehbloW-3MgbTUtGOp0velSC2pER7GaG4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmQzMzRmMDktZmFmMy00Mzc1LTk2ZTctYjcwMTIxZmI5YTkyLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>TONNIE - Java and AI in Europe</b><br><img src="https://assets.dio.me/KPQ0iJkXXWyrLhU0QwLUfud6YzYqXn-2jlaw_FOffZw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmI1N2JlNzQtZmViOC00OTQwLTk4ZGUtMTY5MWMxYmVhNTEwLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/KPQ0iJkXXWyrLhU0QwLUfud6YzYqXn-2jlaw_FOffZw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmI1N2JlNzQtZmViOC00OTQwLTk4ZGUtMTY5MWMxYmVhNTEwLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft - Azure Administrator Certification (AZ-104)</b><br><img src="https://assets.dio.me/HqgoGNm4VJqjr65Rp_B1BZwkZWrG8gX7bVKjmgRd4VA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjNiMjBhOTgtZjc1My00MjMxLWI1ZDctZTM3NmQwYTIwOWE5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/HqgoGNm4VJqjr65Rp_B1BZwkZWrG8gX7bVKjmgRd4VA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjNiMjBhOTgtZjc1My00MjMxLWI1ZDctZTM3NmQwYTIwOWE5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>WEX - End to End Engineering</b><br><img src="https://assets.dio.me/Qltudbj67Pk5X65uSbgi4kZ3uBKQ_EX1_PRRyhs5c8Y/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjEwZDExM2ItMjIzNS00YTc5LWEzNGQtYjE4MmQ3NTI3MWZhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Qltudbj67Pk5X65uSbgi4kZ3uBKQ_EX1_PRRyhs5c8Y/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjEwZDExM2ItMjIzNS00YTc5LWEzNGQtYjE4MmQ3NTI3MWZhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft 50 Anos - Prompts Inteligentes</b><br><img src="https://assets.dio.me/05lp_QMscnXbwqDy0YKZt4Mg1MDB3UE63LK9JQabPSc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDYzOTViNWQtNjdjOC00ZjhmLTljOGEtYzg2YjcyYjE4MjdhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/05lp_QMscnXbwqDy0YKZt4Mg1MDB3UE63LK9JQabPSc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDYzOTViNWQtNjdjOC00ZjhmLTljOGEtYzg2YjcyYjE4MjdhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft 50 Anos - GitHub Copilot</b><br><img src="https://assets.dio.me/PLhLlL0UBjln8UIkXMJxvhDslnCEG2Lp63tHK4uMDr8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTU4MGVjZGMtYmI4Zi00NWIwLWI5MjgtNTAxYjA3NDdmMjMxLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/PLhLlL0UBjln8UIkXMJxvhDslnCEG2Lp63tHK4uMDr8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTU4MGVjZGMtYmI4Zi00NWIwLWI5MjgtNTAxYjA3NDdmMjMxLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft 50 Anos - Computação em Nuvem com Azure</b><br><img src="https://assets.dio.me/w_aw33GiCnqh4hlVcI3Ey9tAeh1Lm-wm9BMaVbwTyC4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzk4NzViZDgtMzA0Yy00YmJkLTlhMTMtODc3YmQxZDI2NDkyLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/w_aw33GiCnqh4hlVcI3Ey9tAeh1Lm-wm9BMaVbwTyC4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzk4NzViZDgtMzA0Yy00YmJkLTlhMTMtODc3YmQxZDI2NDkyLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Azure Cloud Native</b><br><img src="https://assets.dio.me/cfIko0ivA2pgny92ehrmlaioVIfFRDrDNGzpF7cwdnY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmRlMmVjYzQtZWRlYy00OGJjLWFlYjAtZWRjMTlmYjU1N2E1LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/cfIko0ivA2pgny92ehrmlaioVIfFRDrDNGzpF7cwdnY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmRlMmVjYzQtZWRlYy00OGJjLWFlYjAtZWRjMTlmYjU1N2E1LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>XP Inc. - Cloud com Inteligência Artificial</b><br><img src="https://assets.dio.me/r2jBLXv9dGRnKkngouzdw44d3Mj7mLfTPx7LFVtkHKs/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGQ5OTQ5M2QtZWJlNC00OTFiLWEwNmMtZDIwMWIyMzAxMTI4LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/r2jBLXv9dGRnKkngouzdw44d3Mj7mLfTPx7LFVtkHKs/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGQ5OTQ5M2QtZWJlNC00OTFiLWEwNmMtZDIwMWIyMzAxMTI4LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft AI for Tech - Azure Databricks</b><br><img src="https://assets.dio.me/tDbDYv0f2AdZvNHvuLShtyX-7nN2eSRtlFAX1inUafE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNGZmYWY1MGEtMDhlNC00YWQzLWE4ZDAtNTdkOTZkZTMxOWE3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/tDbDYv0f2AdZvNHvuLShtyX-7nN2eSRtlFAX1inUafE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNGZmYWY1MGEtMDhlNC00YWQzLWE4ZDAtNTdkOTZkZTMxOWE3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2025 - Back-End com Java</b><br><img src="https://assets.dio.me/-vVq13zF6fBvBmDdR6W9DCFeUuS4uir5O3jbq31oUy0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTVkYTgyNjAtZmZiYy00MDQ0LTliNmQtYTc2MDE3NzM5YjM0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/-vVq13zF6fBvBmDdR6W9DCFeUuS4uir5O3jbq31oUy0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTVkYTgyNjAtZmZiYy00MDQ0LTliNmQtYTc2MDE3NzM5YjM0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2025 - Back-End com Python</b><br><img src="https://assets.dio.me/JSB8AqQmtBiJNweApuNHTKPXAlwTCJoKRyqQZCpUg3E/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDA2NGYwMTctNDJhMi00YTNkLThkZDMtOTNkMDgxMDkwOTdmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/JSB8AqQmtBiJNweApuNHTKPXAlwTCJoKRyqQZCpUg3E/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDA2NGYwMTctNDJhMi00YTNkLThkZDMtOTNkMDgxMDkwOTdmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2025 - Front-End</b><br><img src="https://assets.dio.me/36qCF05DuQIs_6pXwaede4XCzOmnsH-PzhYOyPU-CxI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTUyNzRmYWYtNjMzNy00MWJlLWE2OTUtYWFiOTM3MDgyMmIyLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/36qCF05DuQIs_6pXwaede4XCzOmnsH-PzhYOyPU-CxI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTUyNzRmYWYtNjMzNy00MWJlLWE2OTUtYWFiOTM3MDgyMmIyLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Klabin - Excel e Power BI Dashboards</b><br><img src="https://assets.dio.me/HWSa4H5hnrqkyzreHcFwTAYgIvYDkzKc1uZeYUYTPb0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjBjZjE1NzMtNjA2OS00ZmYzLWI3MDQtNjY4YTE1YjEzYzI1LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/HWSa4H5hnrqkyzreHcFwTAYgIvYDkzKc1uZeYUYTPb0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjBjZjE1NzMtNjA2OS00ZmYzLWI3MDQtNjY4YTE1YjEzYzI1LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certification Challenge #3 DP-100</b><br><img src="https://assets.dio.me/TOPPEjo0qVwUuQUTI_o04v3x2U0VhX0z8h-wJNLmg5k/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNWEwNDlhOGYtZTk4Ny00NGMyLWI5MzItMmFhZDYxYmNhNTJhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/TOPPEjo0qVwUuQUTI_o04v3x2U0VhX0z8h-wJNLmg5k/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNWEwNDlhOGYtZTk4Ny00NGMyLWI5MzItMmFhZDYxYmNhNTJhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certification Challenge #4 - DP 100</b><br><img src="https://assets.dio.me/yyifqcOCTastqm2aHh0hjsUcSWKS76AxlLrTibBav-g/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmJmZGI3NGYtZWFjZi00ZjI0LThkYmEtMTIwZGVmZWU2ODJmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/yyifqcOCTastqm2aHh0hjsUcSWKS76AxlLrTibBav-g/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmJmZGI3NGYtZWFjZi00ZjI0LThkYmEtMTIwZGVmZWU2ODJmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - Excel com Inteligência Artificial</b><br><img src="https://assets.dio.me/bYmLieBRSBhgW5_7gGTMhALmof0va49CEFhD9iMSv3o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTFiNWY3NzktNWJkYy00YzgwLWJkNWUtYjNjMzczOThlYWQ0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/bYmLieBRSBhgW5_7gGTMhALmof0va49CEFhD9iMSv3o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTFiNWY3NzktNWJkYy00YzgwLWJkNWUtYjNjMzczOThlYWQ0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Decola Tech 2025</b><br><img src="https://assets.dio.me/Yids0N2GZLxaU_mYewO9Ci-GIow-B8nNxZr50cukySA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTc3ZDUzN2YtMmI3MC00NDA2LThlYTItMzEwMzk0ODI1MzA4LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Yids0N2GZLxaU_mYewO9Ci-GIow-B8nNxZr50cukySA/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTc3ZDUzN2YtMmI3MC00NDA2LThlYTItMzEwMzk0ODI1MzA4LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Suzano - Python Developer</b><br><img src="https://assets.dio.me/IZFwGHO3xaT7_edB13S-swDxAb_oHUYPGzyAHuAEeew/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2VmMjRlYjctNGFmNy00NWQ2LWI0Y2YtOGM4ODhhMWE2ZDgwLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/IZFwGHO3xaT7_edB13S-swDxAb_oHUYPGzyAHuAEeew/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2VmMjRlYjctNGFmNy00NWQ2LWI0Y2YtOGM4ODhhMWE2ZDgwLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Bradesco - Java Cloud Native</b><br><img src="https://assets.dio.me/8TfXQE64xtrFF8qbNBT1cfVcgRMPMQbftM1p_5qZNvM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWZmZDcyNTAtZjRhYS00ZGUyLTlmZmEtZGI2YmMxN2E3YWRmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/8TfXQE64xtrFF8qbNBT1cfVcgRMPMQbftM1p_5qZNvM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWZmZDcyNTAtZjRhYS00ZGUyLTlmZmEtZGI2YmMxN2E3YWRmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft AI for Tech - OpenAI Services</b><br><img src="https://assets.dio.me/KOWbIPvEx5IPa0A3I0sVtG_4Z5h469cMwLS0DrQmWyQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNDE4MDg5MTYtNzU4MS00M2ZkLWIzZDctOGUzZjc3NmM2ZGU3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/KOWbIPvEx5IPa0A3I0sVtG_4Z5h469cMwLS0DrQmWyQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNDE4MDg5MTYtNzU4MS00M2ZkLWIzZDctOGUzZjc3NmM2ZGU3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - Linux para Iniciantes</b><br><img src="https://assets.dio.me/OTC3Zcg3khMOILLPLq07ZfGx6smVjyptNbgTYwggmss/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOWI5NTdjN2MtN2Y3MC00YmFhLTg3MjEtNzY2NDRiZTA0ZDQ1LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/OTC3Zcg3khMOILLPLq07ZfGx6smVjyptNbgTYwggmss/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOWI5NTdjN2MtN2Y3MC00YmFhLTg3MjEtNzY2NDRiZTA0ZDQ1LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Heineken - Inteligência Artificial Aplicada a Dados com Copilot</b><br><img src="https://assets.dio.me/_xj0-kAHVWo6J-EmDQQKNyjVEMB0a4f5srXrzxHoj_w/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTAxZmFhZWYtMTE1MS00MWE2LTg3NWUtM2JlN2QwMjBmNzA2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/_xj0-kAHVWo6J-EmDQQKNyjVEMB0a4f5srXrzxHoj_w/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTAxZmFhZWYtMTE1MS00MWE2LTg3NWUtM2JlN2QwMjBmNzA2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft AI for Tech – Criando Prompts Inteligentes</b><br><img src="https://assets.dio.me/rxyKbq0KWMaVYiJP_8Etfi0wac-blkSEi_g74BBAp4M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDE1ZmU4YzYtZTg5OC00ZjllLTgxOWUtYTNkZTU1MzMxMDk2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/rxyKbq0KWMaVYiJP_8Etfi0wac-blkSEi_g74BBAp4M/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZDE1ZmU4YzYtZTg5OC00ZjllLTgxOWUtYTNkZTU1MzMxMDk2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft AI for Tech - GitHub Copilot</b><br><img src="https://assets.dio.me/FHX59vC4u9ByCKVz1IJK-oMl65LfL8TENe14fLdmV-o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTQxNGE0ZmUtMTM2Ny00ODk0LWFmZGQtOTVlM2JkMWQ0YTUxLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/FHX59vC4u9ByCKVz1IJK-oMl65LfL8TENe14fLdmV-o/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTQxNGE0ZmUtMTM2Ny00ODk0LWFmZGQtOTVlM2JkMWQ0YTUxLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Nexa - Análise Avançada de Imagens e Texto com IA na AWS</b><br><img src="https://assets.dio.me/iA6Q1Vin_WRYRaRxh4OsrF0jVnjWd0RC0yjMrYvMrQM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjA1NzliMGYtMDM5YS00NmI4LTg2YjYtMjE3ZGU1ZGU4OWFjLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/iA6Q1Vin_WRYRaRxh4OsrF0jVnjWd0RC0yjMrYvMrQM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjA1NzliMGYtMDM5YS00NmI4LTg2YjYtMjE3ZGU1ZGU4OWFjLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>BairesDev - Machine Learning Practitioner</b><br><img src="https://assets.dio.me/L2Lk8puSQIFoySTrBB582IWoZ-xlY9KdK_9ncHx-Onk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTgzZjNlMDMtZWQwNi00OThmLWI4ZjktZGQ2NjNlOTRiYjc5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/L2Lk8puSQIFoySTrBB582IWoZ-xlY9KdK_9ncHx-Onk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTgzZjNlMDMtZWQwNi00OThmLWI4ZjktZGQ2NjNlOTRiYjc5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft - Fundamentos de IA</b><br><img src="https://assets.dio.me/kPtt50bPl_fjhUWw0unziUQ24n53tPq1qLe6TSpAH60/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZGYyMmUxYTEtY2U1Zi00NGYxLWI3ZmQtMTkxMzBhNWVhNDQwLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/kPtt50bPl_fjhUWw0unziUQ24n53tPq1qLe6TSpAH60/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZGYyMmUxYTEtY2U1Zi00NGYxLWI3ZmQtMTkxMzBhNWVhNDQwLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Suzano - Análise de Dados com Power BI</b><br><img src="https://assets.dio.me/2mwlBQYTyqotuAsdnvbsqE5h63Jb0t8cZLskjnZWqZU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYWJkODYyZTQtOGIyMy00ZDJkLTliY2QtZWVhYmMwZmQ3MTVlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/2mwlBQYTyqotuAsdnvbsqE5h63Jb0t8cZLskjnZWqZU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYWJkODYyZTQtOGIyMy00ZDJkLTliY2QtZWVhYmMwZmQ3MTVlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Certification Challenge #1 - AI 102</b><br><img src="https://assets.dio.me/kyM2lTKV1pkxFDtV4gAZ0Ub703CGFfXopKX64pUvpaI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmE2ZjJmYzktMDk3YS00Y2U3LTgxODEtNjBmNGRmYzZkZGI3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/kyM2lTKV1pkxFDtV4gAZ0Ub703CGFfXopKX64pUvpaI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmE2ZjJmYzktMDk3YS00Y2U3LTgxODEtNjBmNGRmYzZkZGI3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Azure Advanced</b><br><img src="https://assets.dio.me/rCKd4tpZDY7bo_bbPQ7vfhamEXzYceglG1ftI_gsYgY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTcyZDgyYTctZTEyMC00N2JlLTgwNTItZTBhMDBjMjBjYWE0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/rCKd4tpZDY7bo_bbPQ7vfhamEXzYceglG1ftI_gsYgY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTcyZDgyYTctZTEyMC00N2JlLTgwNTItZTBhMDBjMjBjYWE0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Start #6 - Lógica de Programação</b><br><img src="https://assets.dio.me/a1vE_1nHvpmZfL23uyJ6ecNzHACuIGtseE4e2WYiGwM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTMzN2M5Y2UtY2M3My00NTE3LWEwY2UtOWRjNTFiNTM4OGJlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/a1vE_1nHvpmZfL23uyJ6ecNzHACuIGtseE4e2WYiGwM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNTMzN2M5Y2UtY2M3My00NTE3LWEwY2UtOWRjNTFiNTM4OGJlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Ri Happy - Front-end do Zero</b><br><img src="https://assets.dio.me/WZJSKdzJr113C_qiFfhHn_wH9YGPubVIuxR3XOKk3m8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmIxMTk5ZTUtM2FiNy00ODYzLWI2NjYtMmVjN2JiMjNlNzRmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/WZJSKdzJr113C_qiFfhHn_wH9YGPubVIuxR3XOKk3m8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmIxMTk5ZTUtM2FiNy00ODYzLWI2NjYtMmVjN2JiMjNlNzRmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Randstad - Backend com .NET</b><br><img src="https://assets.dio.me/u6Ybb3oH8W5AHaJS_VGQ5SRwiXGXXF3eloJOkaC8knU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTM0Yjk3NmYtZTEwMi00NzNlLTg3MWYtOWVhNWYxZGY4NzZlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/u6Ybb3oH8W5AHaJS_VGQ5SRwiXGXXF3eloJOkaC8knU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTM0Yjk3NmYtZTEwMi00NzNlLTg3MWYtOWVhNWYxZGY4NzZlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Azure Essentials</b><br><img src="https://assets.dio.me/fgu3lhEtb8aA9iVcuniSfal5CFlZIeKV_7phhyzMHG4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWY2NDQyYzQtMjAxMi00YjEzLWFkYjYtMTllYTUxNDdkMzU5LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/fgu3lhEtb8aA9iVcuniSfal5CFlZIeKV_7phhyzMHG4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWY2NDQyYzQtMjAxMi00YjEzLWFkYjYtMTllYTUxNDdkMzU5LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft - Azure AZ-900</b><br><img src="https://assets.dio.me/PWoLZCu48jMydCwWs4ZGT6BEkN5aTcHkV2O35Gh3PSw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmUyNjNlOWYtMWEwYi00NmJkLWJhZWYtN2Y5ZWNmZjdkZTkzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/PWoLZCu48jMydCwWs4ZGT6BEkN5aTcHkV2O35Gh3PSw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmUyNjNlOWYtMWEwYi00NmJkLWJhZWYtN2Y5ZWNmZjdkZTkzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>NTT DATA - Engenharia de Dados com Python</b><br><img src="https://assets.dio.me/QUWRb_o_44Fccdfp5eXIwGf9PDvFu2FkB5zQ7EMhAQw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2VkN2Y5NzMtZTdiNC00YzRiLTk4MWItOWQzNWI0NGY3ZjQxLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/QUWRb_o_44Fccdfp5eXIwGf9PDvFu2FkB5zQ7EMhAQw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2VkN2Y5NzMtZTdiNC00YzRiLTk4MWItOWQzNWI0NGY3ZjQxLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Nexa - Engenharia de Prompts na AWS com Claude</b><br><img src="https://assets.dio.me/vi_4pyTKzL18Lev14f91sgufS6G2JwfvK0krAyV139Q/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMWVjMjEzMmEtYWI0MC00NjVjLTliYzktYzQyZmI5ZDFiNjk0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/vi_4pyTKzL18Lev14f91sgufS6G2JwfvK0krAyV139Q/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMWVjMjEzMmEtYWI0MC00NjVjLTliYzktYzQyZmI5ZDFiNjk0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>XP Inc. - Full Stack Developer</b><br><img src="https://assets.dio.me/LQztstYC-_9DhdUaqgGeMeHyWTEnXlwqZyVNTJBDpwI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjFlYTc2ZGQtMDgxOS00NDIzLWI0ZDAtZDkwZDFhZGVhMjk2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/LQztstYC-_9DhdUaqgGeMeHyWTEnXlwqZyVNTJBDpwI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjFlYTc2ZGQtMDgxOS00NDIzLWI0ZDAtZDkwZDFhZGVhMjk2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Deal - Spring Boot e Angular (17+)</b><br><img src="https://assets.dio.me/0kKa9SUwUEfduQPxHJx0qVd2TWY8zbzWv32acpyjVaM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzAxOGVhODktMjRmOS00YzdjLWE4NmQtOWYwNjhkNWViYzg2LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/0kKa9SUwUEfduQPxHJx0qVd2TWY8zbzWv32acpyjVaM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzAxOGVhODktMjRmOS00YzdjLWE4NmQtOWYwNjhkNWViYzg2LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Cognizant - Arquitetura com Spring Boot e Cloud</b><br><img src="https://assets.dio.me/y9otNHr5s8Z8BuIfQ3rhOxtAtfPircUGEebpFHl1qpw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMmE0Nzg0YzUtZDE5Ni00ZDlkLWFmN2UtYjA5NTc3NmFkMTdhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/y9otNHr5s8Z8BuIfQ3rhOxtAtfPircUGEebpFHl1qpw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMmE0Nzg0YzUtZDE5Ni00ZDlkLWFmN2UtYjA5NTc3NmFkMTdhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Claro - Java com Spring Boot</b><br><img src="https://assets.dio.me/jbCv2T3KzyWOmgpYBR8ebU1JtuGx8vEmXRvMDUer7XU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2QzMzY5OGItNmY3My00ZTRjLTliYWYtYzM5YWVkNWRiNzhiLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jbCv2T3KzyWOmgpYBR8ebU1JtuGx8vEmXRvMDUer7XU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2QzMzY5OGItNmY3My00ZTRjLTliYWYtYzM5YWVkNWRiNzhiLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Copilot AI</b><br><img src="https://assets.dio.me/e3o0HhENfYe3pUKHtMwthp6s_ZLcrESZnODv_BWeqEo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjY0NjgwOTEtZjVhOS00MjQ2LWJhZTctMzg3OTJiNGEwZTkzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/e3o0HhENfYe3pUKHtMwthp6s_ZLcrESZnODv_BWeqEo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjY0NjgwOTEtZjVhOS00MjQ2LWJhZTctMzg3OTJiNGEwZTkzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Binance - Blockchain Developer with Solidity</b><br><img src="https://assets.dio.me/9apZaB85CSs6YQoS9MwJZn-uOt-r9rRBk88TFZo2LXE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzhmYjQ0OGQtNWNhNC00MWIyLWIyMmEtMDdlYWRiNjU4ZWFjLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/9apZaB85CSs6YQoS9MwJZn-uOt-r9rRBk88TFZo2LXE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzhmYjQ0OGQtNWNhNC00MWIyLWIyMmEtMDdlYWRiNjU4ZWFjLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Sysvision - Data Analytics com Power BI</b><br><img src="https://assets.dio.me/ke0mqhUsMS_vZ9rt36ppNTbOXrfGsF17pAVmVcizIKI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjkzMjA1ZDgtYjA3NS00MWJjLTgyOTUtYmMyNmFiODRlOTZmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ke0mqhUsMS_vZ9rt36ppNTbOXrfGsF17pAVmVcizIKI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjkzMjA1ZDgtYjA3NS00MWJjLTgyOTUtYmMyNmFiODRlOTZmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Nexa - Machine Learning para Iniciantes na AWS</b><br><img src="https://assets.dio.me/DCU1_xfAvGs97QAi7yfDJNjfuJ4H1aGDMW_H2sGopxo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGU0YzE1M2QtZTk2Yi00NWJmLThjMTgtZWJlNGM2ZjRiOWJlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/DCU1_xfAvGs97QAi7yfDJNjfuJ4H1aGDMW_H2sGopxo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOGU0YzE1M2QtZTk2Yi00NWJmLThjMTgtZWJlNGM2ZjRiOWJlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT - Desenvolvimento Java com IA</b><br><img src="https://assets.dio.me/wj0WgrJR3VMrLGmVec3p0ZZ78MS9CpjajEmrmBH_r98/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWE5ZTA5Y2YtOTRhNC00MzRmLWE4YzYtM2I4NmY5YjM3ZTEzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/wj0WgrJR3VMrLGmVec3p0ZZ78MS9CpjajEmrmBH_r98/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWE5ZTA5Y2YtOTRhNC00MzRmLWE4YzYtM2I4NmY5YjM3ZTEzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Nexa - Fundamentos de IA Generativa e Claude 3</b><br><img src="https://assets.dio.me/PudWxn_f6DZUDiT_3Hsw2GvP04pAJtMO1BA292uPxMk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTExZWE2MzctYTFjNC00Y2RhLTkxODAtOWU5Y2E0YzI4NWVmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/PudWxn_f6DZUDiT_3Hsw2GvP04pAJtMO1BA292uPxMk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYTExZWE2MzctYTFjNC00Y2RhLTkxODAtOWU5Y2E0YzI4NWVmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Vivo - Python AI Backend Developer</b><br><img src="https://assets.dio.me/excOyVqUzSpKGIUZ7Y1oPsZxqHwJi6ppnViyu4F3rKo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTNlOTEyNGQtNTU4My00MGMxLTkyNmYtNGI5MDA1NTA5MWE3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/excOyVqUzSpKGIUZ7Y1oPsZxqHwJi6ppnViyu4F3rKo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTNlOTEyNGQtNTU4My00MGMxLTkyNmYtNGI5MDA1NTA5MWE3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Transforma Tec 2024</b><br><img src="https://assets.dio.me/gykb-54HuL7VPdiHdeZaFLggOS5OmyFP-4hZcuoTc3g/f:webp/h:120/q:80/L3RyYWNrcy9mNTRlNTdlNS1mZWQwLTQ0NjgtYTE0Yy1iZGI5MDEzZmM3YTAucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/gykb-54HuL7VPdiHdeZaFLggOS5OmyFP-4hZcuoTc3g/f:webp/h:120/q:80/L3RyYWNrcy9mNTRlNTdlNS1mZWQwLTQ0NjgtYTE0Yy1iZGI5MDEzZmM3YTAucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Avanade - .NET Developer</b><br><img src="https://assets.dio.me/yBWdh4GQlH3pbmcbCM2jYMVaWMzNaypd0AEodeJK2G4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjgxODA1ZTItMDVjYS00YTUzLWJkMzQtYzk5NDQzYmY2M2QwLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/yBWdh4GQlH3pbmcbCM2jYMVaWMzNaypd0AEodeJK2G4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYjgxODA1ZTItMDVjYS00YTUzLWJkMzQtYzk5NDQzYmY2M2QwLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Squadio - Python Data Analytics</b><br><img src="https://assets.dio.me/kPNRC0C3_OiICiipFmlASGONkR5TqZPzaBbJYy81Hf4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2Q0ODAzZTYtYjA2OS00Yjg1LTliZjgtOTU1NWE2ZDQxZWNmLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/kPNRC0C3_OiICiipFmlASGONkR5TqZPzaBbJYy81Hf4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvN2Q0ODAzZTYtYjA2OS00Yjg1LTliZjgtOTU1NWE2ZDQxZWNmLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Java AI Powered</b><br><img src="https://assets.dio.me/zGhui0pLUXiusl7bOGG2XYW2mNr6xWu-ruKV4uRfdBs/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2Y0YjFkZjMtNTM0Ny00NDEwLTg4MWUtMTE4NTY1YmFkNTVjLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/zGhui0pLUXiusl7bOGG2XYW2mNr6xWu-ruKV4uRfdBs/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2Y0YjFkZjMtNTM0Ny00NDEwLTg4MWUtMTE4NTY1YmFkNTVjLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2024 - Criando Jogos com Godot</b><br><img src="https://assets.dio.me/R73H-Fd6GSu49NNVhRk_ZgEsG9vozMi7lm_hIUhRPZU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWUyYWE2OTQtZWVhMS00MjgyLWI3MDYtMTQzYmI0OGVhYzgzLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/R73H-Fd6GSu49NNVhRk_ZgEsG9vozMi7lm_hIUhRPZU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZWUyYWE2OTQtZWVhMS00MjgyLWI3MDYtMTQzYmI0OGVhYzgzLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2024 - Preparatório Certificação AWS</b><br><img src="https://assets.dio.me/U-O34gdRNS-cvMCtYOvi3qwBCrZ4ZLATBwSCVNV7di0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODFjMmQ4OGYtOTNlMS00NWY0LWFhMWQtZDg1ZjNjODJkMjdhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/U-O34gdRNS-cvMCtYOvi3qwBCrZ4ZLATBwSCVNV7di0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODFjMmQ4OGYtOTNlMS00NWY0LWFhMWQtZDg1ZjNjODJkMjdhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2024 - Backend com Java</b><br><img src="https://assets.dio.me/lWmIu7pSq3HquR_Jj3x6X7xD6Dj-VndwAC_mOKsBB3c/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTJhMDY4YzItNjJhOS00ZjgzLWFkMzEtMGYzMjdmNTNiOTUwLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/lWmIu7pSq3HquR_Jj3x6X7xD6Dj-VndwAC_mOKsBB3c/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZTJhMDY4YzItNjJhOS00ZjgzLWFkMzEtMGYzMjdmNTNiOTUwLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander 2024 - Fundamentos de IA para Devs</b><br><img src="https://assets.dio.me/qgbjHnffRlXbqZtrIzyt6sBQS0t29ZBhP_D8XyuHJLw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2Q4ODgzY2QtZGU5Ni00MWQ2LTliYzUtMzgyYjZhMzZjODJkLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/qgbjHnffRlXbqZtrIzyt6sBQS0t29ZBhP_D8XyuHJLw/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2Q4ODgzY2QtZGU5Ni00MWQ2LTliYzUtMzgyYjZhMzZjODJkLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft Azure AI Fundamentals</b><br><img src="https://assets.dio.me/1sIlVdoknU70q5NLF8KESkHh_pCxQaMx2sn7laUsQa0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjFkY2EyZDAtYzRkZi00N2Q0LTk1YzgtOWJlZGU4ZDQxNWJlLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/1sIlVdoknU70q5NLF8KESkHh_pCxQaMx2sn7laUsQa0/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjFkY2EyZDAtYzRkZi00N2Q0LTk1YzgtOWJlZGU4ZDQxNWJlLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Desenvolvimento Backend com Kotlin</b><br><img src="https://assets.dio.me/vNl8jnLZM9juvDCe9v8zso7XtwO7DhzHGpRDrY5OCIQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDllNDAzMjItMmZkOS00NWY5LWJkMzMtNjU5MmQzOGJmYzljLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/vNl8jnLZM9juvDCe9v8zso7XtwO7DhzHGpRDrY5OCIQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDllNDAzMjItMmZkOS00NWY5LWJkMzMtNjU5MmQzOGJmYzljLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Decola Tech 2024</b><br><img src="https://assets.dio.me/1PvnRx92OM7j-FMLKKuPNfbMo3P3l1PK5UmJN6qiml8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMmI2ZjJhNzUtYjZkMC00ZTliLWEzMzAtMzEwMzA3MTg1MjE0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/1PvnRx92OM7j-FMLKKuPNfbMo3P3l1PK5UmJN6qiml8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMmI2ZjJhNzUtYjZkMC00ZTliLWEzMzAtMzEwMzA3MTg1MjE0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Desenvolvimento Frontend com Angular</b><br><img src="https://assets.dio.me/lbN3S97LeUVDVnzp1pltXrOjy-MBQ32pAkTDgUzNTiU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmYyM2U3NTgtODEyYi00NWVjLTk4ZWYtZDVlZjY0YjFhNDg3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/lbN3S97LeUVDVnzp1pltXrOjy-MBQ32pAkTDgUzNTiU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYmYyM2U3NTgtODEyYi00NWVjLTk4ZWYtZDVlZjY0YjFhNDg3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Potência Tech iFood - Desenvolvimento de Jogos</b><br><img src="https://assets.dio.me/jN7japUblo2DAJQ67GgwInTCoiMsq6iyouUEUMiTxQU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2I2ZjFlZTctYTYwYS00OTVhLTgyOWYtOTI5MmJhZmU1MmNhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jN7japUblo2DAJQ67GgwInTCoiMsq6iyouUEUMiTxQU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvM2I2ZjFlZTctYTYwYS00OTVhLTgyOWYtOTI5MmJhZmU1MmNhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Programação C# com CRM Dynamics</b><br><img src="https://assets.dio.me/dZmuRofiuTZOXWh8hbNwGzTXR76OkDGF9esJ9eQQkQc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzI1NmM1ZTktZWFjMy00OGQ0LWI1YmUtNzA1YWYzYjcwZDgxLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/dZmuRofiuTZOXWh8hbNwGzTXR76OkDGF9esJ9eQQkQc/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzI1NmM1ZTktZWFjMy00OGQ0LWI1YmUtNzA1YWYzYjcwZDgxLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Potência Tech iFood - Programação do Zero</b><br><img src="https://assets.dio.me/VyxdXjiWi0SuxefQZ2yGepwOvmphtnp88TVrFwDWDR4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzA0YzQzNDYtMmY0Yy00MjZjLTk0NTYtNjliMGE0YjUxMjc0LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/VyxdXjiWi0SuxefQZ2yGepwOvmphtnp88TVrFwDWDR4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzA0YzQzNDYtMmY0Yy00MjZjLTk0NTYtNjliMGE0YjUxMjc0LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>WEX - Desenvolvimento .NET e QA</b><br><img src="https://assets.dio.me/uwNeYTQKcXXWauBdmTp4KpZxCQsmJcc5PDDfpouZ7zQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODIxZjY1MmEtZGE3NC00YmEwLWEwZWItM2JkNGQwZTFlMDdhLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/uwNeYTQKcXXWauBdmTp4KpZxCQsmJcc5PDDfpouZ7zQ/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvODIxZjY1MmEtZGE3NC00YmEwLWEwZWItM2JkNGQwZTFlMDdhLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - Cibersegurança</b><br><img src="https://assets.dio.me/AZHb4mfbe9dCPezGxG3YmX3hhhZvfge4RxfaeCCZzCY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNGI5OTcyYWEtMTg3OS00MzY0LWI3NWYtYzYxODU0Y2UwMWQ3LnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/AZHb4mfbe9dCPezGxG3YmX3hhhZvfge4RxfaeCCZzCY/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNGI5OTcyYWEtMTg3OS00MzY0LWI3NWYtYzYxODU0Y2UwMWQ3LnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Code Update TQI - Backend com Kotlin e Java</b><br><img src="https://assets.dio.me/Hf_tpT8RsHUOb_j6tOG9A0Jei40PxHIzGksdU9MmKjk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjYyM2FhMzUtZmNhMy00NWZhLWFjZWYtNjdlODE4YmYwNmZiLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Hf_tpT8RsHUOb_j6tOG9A0Jei40PxHIzGksdU9MmKjk/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZjYyM2FhMzUtZmNhMy00NWZhLWFjZWYtNjdlODE4YmYwNmZiLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Desenvolvimento Java com Cloud AWS</b><br><img src="https://assets.dio.me/JfMiewbHqu9vGrpw1zJafunQaYTIQaiu3gqXiFdI4UI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjEwM2IxMGItMDA5Ni00OWVlLWEzYWMtN2YwZDJiNGExMmEyLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/JfMiewbHqu9vGrpw1zJafunQaYTIQaiu3gqXiFdI4UI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjEwM2IxMGItMDA5Ni00OWVlLWEzYWMtN2YwZDJiNGExMmEyLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Potência Tech powered by iFood | Ciência de Dados</b><br><img src="https://assets.dio.me/qyn5Y-WbJ0nkz_L2vd_YsTrEharN0dKjKi_C1hlyUe8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzMxMjJmZmUtZTIzOS00ODc5LTk4YzgtNzFmODVlZjc4OWQxLnBuZw" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/qyn5Y-WbJ0nkz_L2vd_YsTrEharN0dKjKi_C1hlyUe8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvYzMxMjJmZmUtZTIzOS00ODc5LTk4YzgtNzFmODVlZjc4OWQxLnBuZw" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp 2023 -  Mobile iOS com Swift</b><br><img src="https://assets.dio.me/WqoDYGJer1q3E8S509r0RrUI6POJFFcGNuu6RO08l9I/f:webp/h:120/q:80/L3RyYWNrcy82MWQ1NzIwMy03YzQzLTRkOGQtYTNmMC04MzNmYWEyY2U2ODAucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/WqoDYGJer1q3E8S509r0RrUI6POJFFcGNuu6RO08l9I/f:webp/h:120/q:80/L3RyYWNrcy82MWQ1NzIwMy03YzQzLTRkOGQtYTNmMC04MzNmYWEyY2U2ODAucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp 2023 - Mobile com Flutter</b><br><img src="https://assets.dio.me/8HMWbst__WIXhceTgsHTM4kA79bJQ-RAqbgCdMjf4_c/f:webp/h:120/q:80/L3RyYWNrcy8yMzVmNzIxYi00OWRmLTRhMzAtYTcxMS03Yjk0N2VhNjM0MTAucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/8HMWbst__WIXhceTgsHTM4kA79bJQ-RAqbgCdMjf4_c/f:webp/h:120/q:80/L3RyYWNrcy8yMzVmNzIxYi00OWRmLTRhMzAtYTcxMS03Yjk0N2VhNjM0MTAucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp 2023 -  Mobile Android com Kotlin</b><br><img src="https://assets.dio.me/RGP3A-EYPuA5PW5rrfkiqeQP9MyDITN_jwfS4w8reRA/f:webp/h:120/q:80/L3RyYWNrcy8yOWZmNmNjMy1mYzBkLTQ0YWYtOGNlYS04ZTNhYWVkNzE5NjYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/RGP3A-EYPuA5PW5rrfkiqeQP9MyDITN_jwfS4w8reRA/f:webp/h:120/q:80/L3RyYWNrcy8yOWZmNmNjMy1mYzBkLTQ0YWYtOGNlYS04ZTNhYWVkNzE5NjYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp 2023 - Ciência de Dados com Python</b><br><img src="https://assets.dio.me/Csp1ZWn286zH949o1vKOx6nWNZcf20-p5o8IC1xVXcU/f:webp/h:120/q:80/L3RyYWNrcy8wMzI1M2ZmMC05NWI5LTQ5MDQtODRlNy0yMDYzZTlkNmNiMjYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Csp1ZWn286zH949o1vKOx6nWNZcf20-p5o8IC1xVXcU/f:webp/h:120/q:80/L3RyYWNrcy8wMzI1M2ZmMC05NWI5LTQ5MDQtODRlNy0yMDYzZTlkNmNiMjYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp 2023 - Backend Java</b><br><img src="https://assets.dio.me/31Tic7SURWbaWL-qVZdJPM2QSpyzugWCX-Z1_-jUSR8/f:webp/h:120/q:80/L3RyYWNrcy85NjMxODk4ZS1hODNjLTRjMDQtYWVmZC1hNzgyZWFkMmRiOGYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/31Tic7SURWbaWL-qVZdJPM2QSpyzugWCX-Z1_-jUSR8/f:webp/h:120/q:80/L3RyYWNrcy85NjMxODk4ZS1hODNjLTRjMDQtYWVmZC1hNzgyZWFkMmRiOGYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp 2023 - Fullstack Java+Angular</b><br><img src="https://assets.dio.me/NF1ax9yHzwtyr8IpQ8z7qZg-CP4ddP0pf8TCoZTiF90/f:webp/h:120/q:80/L3RyYWNrcy9hZmViZTVlZC0yYjE4LTQzOGEtOTViMC0yYzk3MWU5YWVmZjkucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/NF1ax9yHzwtyr8IpQ8z7qZg-CP4ddP0pf8TCoZTiF90/f:webp/h:120/q:80/L3RyYWNrcy9hZmViZTVlZC0yYjE4LTQzOGEtOTViMC0yYzk3MWU5YWVmZjkucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Descubra a Nuvem AWS - Nexa Resources</b><br><img src="https://assets.dio.me/te5QxnXpR0L28yaVpgPWf_4WIT3cHRWPxpK9Z6hnRxI/f:webp/h:120/q:80/L3RyYWNrcy9lYWMyODAwMy1hYWI0LTQ0MjctOWU4MC1kNzUwYjQ0ODk0YzcucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/te5QxnXpR0L28yaVpgPWf_4WIT3cHRWPxpK9Z6hnRxI/f:webp/h:120/q:80/L3RyYWNrcy9lYWMyODAwMy1hYWI0LTQ0MjctOWU4MC1kNzUwYjQ0ODk0YzcucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Descubra a Nuvem AWS – LocalizaLabs</b><br><img src="https://assets.dio.me/jR7aWUzzn9DvluSRAYgNKb_dbpr8m0dsq7KdxZWwlU0/f:webp/h:120/q:80/L3RyYWNrcy8wNzdjNzYzNi0zMTNkLTRmMWEtYmExYy1jM2FhYzU0MmU4NmIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jR7aWUzzn9DvluSRAYgNKb_dbpr8m0dsq7KdxZWwlU0/f:webp/h:120/q:80/L3RyYWNrcy8wNzdjNzYzNi0zMTNkLTRmMWEtYmExYy1jM2FhYzU0MmU4NmIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>TQI Kotlin - Backend Developer</b><br><img src="https://assets.dio.me/CfhY96fTM399PrRn9ga0GKm_YFczS0ViJUDNYZ51_zo/f:webp/h:120/q:80/L3RyYWNrcy80Yzc5NmNlZS1iZWY1LTQwNDgtOGZiZS0yNjA1MjdjMTFmNDUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/CfhY96fTM399PrRn9ga0GKm_YFczS0ViJUDNYZ51_zo/f:webp/h:120/q:80/L3RyYWNrcy80Yzc5NmNlZS1iZWY1LTQwNDgtOGZiZS0yNjA1MjdjMTFmNDUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Potência Tech Angular Developer - Powered by iFood</b><br><img src="https://assets.dio.me/53cTBXi3U75n_ShRRMzjBbyqlNvVM586N0zBCu-zcVI/f:webp/h:120/q:80/L3RyYWNrcy9hMTIzYTcwNy01NGRlLTRhNjctODhlZS01YzEyOWJlYjE0ZDcucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/53cTBXi3U75n_ShRRMzjBbyqlNvVM586N0zBCu-zcVI/f:webp/h:120/q:80/L3RyYWNrcy9hMTIzYTcwNy01NGRlLTRhNjctODhlZS01YzEyOWJlYjE0ZDcucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft - Dynamics 365</b><br><img src="https://assets.dio.me/626UbtA0Vg44owj8MNVMkeRerK02mO364Tpe7dvU04w/f:webp/h:120/q:80/L3RyYWNrcy8xYjdkOTUxMS05MDkzLTQwYjctYTcxMC00NWI0NmFmYTlkMzUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/626UbtA0Vg44owj8MNVMkeRerK02mO364Tpe7dvU04w/f:webp/h:120/q:80/L3RyYWNrcy8xYjdkOTUxMS05MDkzLTQwYjctYTcxMC00NWI0NmFmYTlkMzUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>AWS - Cloud Amazon Web Services</b><br><img src="https://assets.dio.me/FEelpQZKibOGxCzUO4r33fut3b5nvbZs15fYK2UsSXU/f:webp/h:120/q:80/L3RyYWNrcy9hZjIyZDRhMC00NjNmLTQ4YzUtYTcwYy00OTYxZDVlNjE4ZDAucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/FEelpQZKibOGxCzUO4r33fut3b5nvbZs15fYK2UsSXU/f:webp/h:120/q:80/L3RyYWNrcy9hZjIyZDRhMC00NjNmLTQ4YzUtYTcwYy00OTYxZDVlNjE4ZDAucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Banco PAN Java Developer</b><br><img src="https://assets.dio.me/9Vw2UezlbTCz3PNNguQljTlh1b6FvYN8lgfSlH7IeCk/f:webp/h:120/q:80/L3RyYWNrcy82MDhlY2VmZC0xZDEwLTQyZWEtOWY1OC0zZTdhNDU0OGFiM2UucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/9Vw2UezlbTCz3PNNguQljTlh1b6FvYN8lgfSlH7IeCk/f:webp/h:120/q:80/L3RyYWNrcy82MDhlY2VmZC0xZDEwLTQyZWEtOWY1OC0zZTdhNDU0OGFiM2UucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Linux do Zero</b><br><img src="https://assets.dio.me/1RiBX1ifioNtwtcAdRfP2ARq3LXpBixSVBzfCAC_-Ks/f:webp/h:120/q:80/L3RyYWNrcy8wZWRkMTM5OC03Y2VlLTQyOTUtOThjZi04ZGQ1YTQxZDI4ZmIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/1RiBX1ifioNtwtcAdRfP2ARq3LXpBixSVBzfCAC_-Ks/f:webp/h:120/q:80/L3RyYWNrcy8wZWRkMTM5OC03Y2VlLTQyOTUtOThjZi04ZGQ1YTQxZDI4ZmIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Orange Tech + | BackEnd</b><br><img src="https://assets.dio.me/wF8L-r1DP9YqHPSPM3AQGN57rBpo_KWlXHq5uol2WzQ/f:webp/h:120/q:80/L3RyYWNrcy81NDQzOTgwZC0zMWNiLTRhOWYtOGRiZC0wNjU3NzM4MTBjMDQucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/wF8L-r1DP9YqHPSPM3AQGN57rBpo_KWlXHq5uol2WzQ/f:webp/h:120/q:80/L3RyYWNrcy81NDQzOTgwZC0zMWNiLTRhOWYtOGRiZC0wNjU3NzM4MTBjMDQucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Kotlin Experience</b><br><img src="https://assets.dio.me/ne_5hjrhcQhUikU3LwD1_iw397gUKpkzd7K4O7RA6AQ/f:webp/h:120/q:80/L3RyYWNrcy8wNDE3NzdkOC1hOTI5LTQxMjYtYTkxNC0wOGU2OWVkM2Y3MzEucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ne_5hjrhcQhUikU3LwD1_iw397gUKpkzd7K4O7RA6AQ/f:webp/h:120/q:80/L3RyYWNrcy8wNDE3NzdkOC1hOTI5LTQxMjYtYTkxNC0wOGU2OWVkM2Y3MzEucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Trainee Grupo Carrefour Brasil - Liderança Negra</b><br><img src="https://assets.dio.me/LF0mVxwVFxMC58BbVjZMlGV-0i_X0aoWTnYG2bjzcy0/f:webp/h:120/q:80/L3RyYWNrcy8xMmRhMGMxNy01YjkxLTRlODEtYjZlOS05MmUzZWUzYjgzZjYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/LF0mVxwVFxMC58BbVjZMlGV-0i_X0aoWTnYG2bjzcy0/f:webp/h:120/q:80/L3RyYWNrcy8xMmRhMGMxNy01YjkxLTRlODEtYjZlOS05MmUzZWUzYjgzZjYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Quality Assurance Para Mulheres</b><br><img src="https://assets.dio.me/XMSguuob55Gd7XcDshyr3XzBYPYg0Gh-47bHiZfBU24/f:webp/h:120/q:80/L3RyYWNrcy8zYWUwNjY2Yi1hZDQwLTQ5NTItYmU0NS01YjMwOGE3N2UzNjAucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/XMSguuob55Gd7XcDshyr3XzBYPYg0Gh-47bHiZfBU24/f:webp/h:120/q:80/L3RyYWNrcy8zYWUwNjY2Yi1hZDQwLTQ5NTItYmU0NS01YjMwOGE3N2UzNjAucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Jornada DevOps com AWS - Impulso</b><br><img src="https://assets.dio.me/Exuo_vbxJZFUHMKmriPjY6OOorZC0GJ_BcLJYVK_RAQ/f:webp/h:120/q:80/L3RyYWNrcy83YjAzNWI5MS04NjI1LTQ5M2MtYTgxNi02NzQwYTRhMjVlOWIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/Exuo_vbxJZFUHMKmriPjY6OOorZC0GJ_BcLJYVK_RAQ/f:webp/h:120/q:80/L3RyYWNrcy83YjAzNWI5MS04NjI1LTQ5M2MtYTgxNi02NzQwYTRhMjVlOWIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Warburg Pincus - Cloud Fullstack Bootcamp</b><br><img src="https://assets.dio.me/ZB6X9TBvscUGH1dm2XSOx4BGhgX7bzZNgdUBADJh-Dg/f:webp/h:120/q:80/L3RyYWNrcy9kMmM5MDEzMS1kZjMwLTRhMzgtYmRkYy1mODI4MGYxOWNiZjkucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/ZB6X9TBvscUGH1dm2XSOx4BGhgX7bzZNgdUBADJh-Dg/f:webp/h:120/q:80/L3RyYWNrcy9kMmM5MDEzMS1kZjMwLTRhMzgtYmRkYy1mODI4MGYxOWNiZjkucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Orange Tech +</b><br><img src="https://assets.dio.me/DtBJ8wiWqJPkDnGfWQhFz5ggaUrNPObUHvN16oJ7e9E/f:webp/h:120/q:80/L3RyYWNrcy81OTQxNzkxNC1jNGNlLTRiZjgtYjgwMi1mMWMxOTg1YTA3ZmEucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/DtBJ8wiWqJPkDnGfWQhFz5ggaUrNPObUHvN16oJ7e9E/f:webp/h:120/q:80/L3RyYWNrcy81OTQxNzkxNC1jNGNlLTRiZjgtYjgwMi1mMWMxOTg1YTA3ZmEucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>NTT DATA Diversidade em Tech</b><br><img src="https://assets.dio.me/FXluEsMvBJStcTvWNeUQ0tvgK0pc1JK0Gds9eCIDPV0/f:webp/h:120/q:80/L3RyYWNrcy81YjRkODQ1OC1lYjUxLTRhNTUtOGRlYy0wMzliMjM3NGEwOTYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/FXluEsMvBJStcTvWNeUQ0tvgK0pc1JK0Gds9eCIDPV0/f:webp/h:120/q:80/L3RyYWNrcy81YjRkODQ1OC1lYjUxLTRhNTUtOGRlYy0wMzliMjM3NGEwOTYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Potência Tech powered by iFood - Java Beginners</b><br><img src="https://assets.dio.me/OEqvJ1QNZGcvq2FCajCUUqGhtUHGoaV52xMhCe_fyCo/f:webp/h:120/q:80/L3RyYWNrcy84YzM2ZWYxMy1lZWJiLTRlZmEtOWExMy0zMWYxYzMxNWZjMDIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/OEqvJ1QNZGcvq2FCajCUUqGhtUHGoaV52xMhCe_fyCo/f:webp/h:120/q:80/L3RyYWNrcy84YzM2ZWYxMy1lZWJiLTRlZmEtOWExMy0zMWYxYzMxNWZjMDIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Cloud DevOps Experience - Banco Carrefour</b><br><img src="https://assets.dio.me/aiejgrNQTsWnTYU6Cuoqf2CsiEuNQdqvGzcCgvrV66w/f:webp/h:120/q:80/L3RyYWNrcy80YzFjOWUwNC04NTdlLTQ2ODMtYmE1Yi00YjBlYWZjZDRkMmMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/aiejgrNQTsWnTYU6Cuoqf2CsiEuNQdqvGzcCgvrV66w/f:webp/h:120/q:80/L3RyYWNrcy80YzFjOWUwNC04NTdlLTQ2ODMtYmE1Yi00YjBlYWZjZDRkMmMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Québec Java Digital</b><br><img src="https://assets.dio.me/5B_iOKnP05_a8N5s8Xu9QO9YVyq4QF2gDXT5a7b2Qh0/f:webp/h:120/q:80/L3RyYWNrcy85MGQ4OWM1ZS0zMzBlLTQzMTYtODVhZi1lNmQ2Mjk2NzdmNjgucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/5B_iOKnP05_a8N5s8Xu9QO9YVyq4QF2gDXT5a7b2Qh0/f:webp/h:120/q:80/L3RyYWNrcy85MGQ4OWM1ZS0zMzBlLTQzMTYtODVhZi1lNmQ2Mjk2NzdmNjgucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Pottencial .NET Developer</b><br><img src="https://assets.dio.me/pZrZd6Oh6jRBO-Wgql2IvXgUlg5irbrwMGadJDzTkw0/f:webp/h:120/q:80/L3RyYWNrcy85YTFlODBkZS02YjQyLTRmNTktOTdiZS0xNWUxNDkzYWE5NmYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/pZrZd6Oh6jRBO-Wgql2IvXgUlg5irbrwMGadJDzTkw0/f:webp/h:120/q:80/L3RyYWNrcy85YTFlODBkZS02YjQyLTRmNTktOTdiZS0xNWUxNDkzYWE5NmYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Database Experience</b><br><img src="https://assets.dio.me/XFA7tY3KTXRyn2_HzbP4B-iasfxOwdoinbjErkuPfqs/f:webp/h:120/q:80/L3RyYWNrcy83ZGY3ZTMwMC1iMDM1LTRiMDktYTdhZC0zNGQxY2IxOGY5YTYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/XFA7tY3KTXRyn2_HzbP4B-iasfxOwdoinbjErkuPfqs/f:webp/h:120/q:80/L3RyYWNrcy83ZGY3ZTMwMC1iMDM1LTRiMDktYTdhZC0zNGQxY2IxOGY5YTYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Geração Tech Unimed-BH - Ciência de Dados</b><br><img src="https://assets.dio.me/oflcIYKtgNU2kkjIporXiXNsfvSyz_E9zmUsMPdyVJg/f:webp/h:120/q:80/L3RyYWNrcy8zNDJmNzM5Mi1hOGI1LTQyMWYtYmVhOS1kMjlmMWZkOGFhZTkucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/oflcIYKtgNU2kkjIporXiXNsfvSyz_E9zmUsMPdyVJg/f:webp/h:120/q:80/L3RyYWNrcy8zNDJmNzM5Mi1hOGI1LTQyMWYtYmVhOS1kMjlmMWZkOGFhZTkucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Linux Experience</b><br><img src="https://assets.dio.me/1NkLJXos8kOI3HcFX6Ya29zHtEnXjFkpiSHleUrEvX8/f:webp/h:120/q:80/L3RyYWNrcy82MDY4MjNjMi04YTczLTQ2NTUtOTQ3ZC1kNDFiOTkxYmFmMTIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/1NkLJXos8kOI3HcFX6Ya29zHtEnXjFkpiSHleUrEvX8/f:webp/h:120/q:80/L3RyYWNrcy82MDY4MjNjMi04YTczLTQ2NTUtOTQ3ZC1kNDFiOTkxYmFmMTIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Spring Framework Experience</b><br><img src="https://assets.dio.me/X-ua6lkqHaDr7xadozrNeq0CAqfBbCroDO9OKgZLMS8/f:webp/h:120/q:80/L3RyYWNrcy8yMmNkYjM5OC01Y2EyLTQ0MjAtYWU3Ni03YTdlYzUwNzhlYTgucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/X-ua6lkqHaDr7xadozrNeq0CAqfBbCroDO9OKgZLMS8/f:webp/h:120/q:80/L3RyYWNrcy8yMmNkYjM5OC01Y2EyLTQ0MjAtYWU3Ni03YTdlYzUwNzhlYTgucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Tech Woman Summit Avanade Node.js</b><br><img src="https://assets.dio.me/8QRrJKwSIwEAJYI21hxn4noF25jwWwajbONjbHjmgkk/f:webp/h:120/q:80/L3RyYWNrcy9mZjQ3MmMzOC1lNmExLTRmMmUtYjM2Yi03MDA5ZjBhNWQwNzMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/8QRrJKwSIwEAJYI21hxn4noF25jwWwajbONjbHjmgkk/f:webp/h:120/q:80/L3RyYWNrcy9mZjQ3MmMzOC1lNmExLTRmMmUtYjM2Yi03MDA5ZjBhNWQwNzMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Tech Woman Summit Avanade .NET</b><br><img src="https://assets.dio.me/r42IPPvC4pCygv_EON90ylJX4Y_G0stsQ42dGIh5XUY/f:webp/h:120/q:80/L3RyYWNrcy9jNDBkZDY3MS1mNDY4LTQ2YTgtODQyNi03MjVjM2IwN2M1ZGUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/r42IPPvC4pCygv_EON90ylJX4Y_G0stsQ42dGIh5XUY/f:webp/h:120/q:80/L3RyYWNrcy9jNDBkZDY3MS1mNDY4LTQ2YTgtODQyNi03MjVjM2IwN2M1ZGUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Impulso Javascript Evolution</b><br><img src="https://assets.dio.me/jFFw36Ja3y5toYOOGmLnjpWBs9OVgSYXuec7lv_uIWI/f:webp/h:120/q:80/L3RyYWNrcy82OTBlNmRkOC1jNzcwLTRlZjUtOGY2YS02M2VjMjcwNDg5MGYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jFFw36Ja3y5toYOOGmLnjpWBs9OVgSYXuec7lv_uIWI/f:webp/h:120/q:80/L3RyYWNrcy82OTBlNmRkOC1jNzcwLTRlZjUtOGY2YS02M2VjMjcwNDg5MGYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Code Girls</b><br><img src="https://assets.dio.me/RP2shNM5DYoIOfvX5LuVqHwyAWMNlMLEZb1ASemY2HY/f:webp/h:120/q:80/L3RyYWNrcy8wMWIwZGQzNi04M2VmLTQwZjgtYjUyYS1kNTQyY2M4NTcyN2MucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/RP2shNM5DYoIOfvX5LuVqHwyAWMNlMLEZb1ASemY2HY/f:webp/h:120/q:80/L3RyYWNrcy8wMWIwZGQzNi04M2VmLTQwZjgtYjUyYS1kNTQyY2M4NTcyN2MucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>TQI Fullstack Developer</b><br><img src="https://assets.dio.me/fSkGGqkvMzUk3yHva0V02S0hLv3e7wB1yqJMkoP7x3E/f:webp/h:120/q:80/L3RyYWNrcy8zYzhiZTYyOC01MTM4LTRiNjMtOWNmYS1lNTMxM2NjMDMxMDMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/fSkGGqkvMzUk3yHva0V02S0hLv3e7wB1yqJMkoP7x3E/f:webp/h:120/q:80/L3RyYWNrcy8zYzhiZTYyOC01MTM4LTRiNjMtOWNmYS1lNTMxM2NjMDMxMDMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Decola Tech 3a edição</b><br><img src="https://assets.dio.me/-JWSLYgWIattGdLJwgjszG3BfAV-iWPq5YZ34rJwoe8/f:webp/h:120/q:80/L3RyYWNrcy8xNTg2NjUwMC1mODE4LTQ5NzAtYjkwNi02NmJmMDdjZWM5N2IucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/-JWSLYgWIattGdLJwgjszG3BfAV-iWPq5YZ34rJwoe8/f:webp/h:120/q:80/L3RyYWNrcy8xNTg2NjUwMC1mODE4LTQ5NzAtYjkwNi02NmJmMDdjZWM5N2IucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Start #5 .NET</b><br><img src="https://assets.dio.me/oLBtsbwQMqX1uL3LVEPgTjpj39Zr0c6TAZwEtcHrz9c/f:webp/h:120/q:80/L3RyYWNrcy9kNTZlOGU2Ny1lY2VlLTRhYmEtODJjZS03MTQxOWVjZTAwMmMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/oLBtsbwQMqX1uL3LVEPgTjpj39Zr0c6TAZwEtcHrz9c/f:webp/h:120/q:80/L3RyYWNrcy9kNTZlOGU2Ny1lY2VlLTRhYmEtODJjZS03MTQxOWVjZTAwMmMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Start #5 Java</b><br><img src="https://assets.dio.me/zeu33FSxwBr2LSCNiVpjH3pXr16tv1HKwkFcSYRQ6_w/f:webp/h:120/q:80/L3RyYWNrcy82ZTFmNTliOS0yMjA3LTQwYjgtOGNkNC1mZWVmMGU2Njg4MzIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/zeu33FSxwBr2LSCNiVpjH3pXr16tv1HKwkFcSYRQ6_w/f:webp/h:120/q:80/L3RyYWNrcy82ZTFmNTliOS0yMjA3LTQwYjgtOGNkNC1mZWVmMGU2Njg4MzIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT Start Woman Java</b><br><img src="https://assets.dio.me/jHQlSyVs4OpnOoC0rc3rct1FP0Fz3qfk5MywjaYuJVE/f:webp/h:120/q:80/L3RyYWNrcy84NGIzMTQ5ZC03NTdmLTRkMmItOGY0YS1hMWQ2ZDM3Mjk1OTUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jHQlSyVs4OpnOoC0rc3rct1FP0Fz3qfk5MywjaYuJVE/f:webp/h:120/q:80/L3RyYWNrcy84NGIzMTQ5ZC03NTdmLTRkMmItOGY0YS1hMWQ2ZDM3Mjk1OTUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Spread Fullstack Developer</b><br><img src="https://assets.dio.me/W5Z-D9tNhfcqyA5z5t-lSz1LuCOcn6EsE2jw9lf5Hvk/f:webp/h:120/q:80/L3RyYWNrcy9hMGZiM2IxMy0zZGQwLTQ5NWUtOGYwNy03N2NjMWE4NTk5MWYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/W5Z-D9tNhfcqyA5z5t-lSz1LuCOcn6EsE2jw9lf5Hvk/f:webp/h:120/q:80/L3RyYWNrcy9hMGZiM2IxMy0zZGQwLTQ5NWUtOGYwNy03N2NjMWE4NTk5MWYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Geração Tech Unimed-BH | Fullstack</b><br><img src="https://assets.dio.me/4jOJOt47Q0_dSoJlMfOIA_SB1P4YW_aHcpLgwnZYfCo/f:webp/h:120/q:80/L3RyYWNrcy9hOTgyMjg3Yy1mZmIxLTRjNGEtODdkZC1lYTgxZTdmNTBhYzQucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/4jOJOt47Q0_dSoJlMfOIA_SB1P4YW_aHcpLgwnZYfCo/f:webp/h:120/q:80/L3RyYWNrcy9hOTgyMjg3Yy1mZmIxLTRjNGEtODdkZC1lYTgxZTdmNTBhYzQucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp Mobile Developer</b><br><img src="https://assets.dio.me/M-Po_46dYsMx3CI3lwijHA94N1-C59ajuMUj0uXGIs8/f:webp/h:120/q:80/L3RyYWNrcy84NzEzNmVmYi1mMDQ4LTQzMDQtODFjNC1mMjFhNzY1NDkyMGIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/M-Po_46dYsMx3CI3lwijHA94N1-C59ajuMUj0uXGIs8/f:webp/h:120/q:80/L3RyYWNrcy84NzEzNmVmYi1mMDQ4LTQzMDQtODFjNC1mMjFhNzY1NDkyMGIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander Bootcamp Fullstack Developer</b><br><img src="https://assets.dio.me/fTuqcsHXmx9FPjfhf8ZivqYOKqtha2IcymFmwKf6XqY/f:webp/h:120/q:80/L3RyYWNrcy84MDBmZDA5OC0zZWVmLTQ1ZTktOTU0NC01NDRhZTM5NjA3NmMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/fTuqcsHXmx9FPjfhf8ZivqYOKqtha2IcymFmwKf6XqY/f:webp/h:120/q:80/L3RyYWNrcy84MDBmZDA5OC0zZWVmLTQ1ZTktOTU0NC01NDRhZTM5NjA3NmMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Carrefour Web Developer</b><br><img src="https://assets.dio.me/2Y2nfVH4Phnwr5iuS9qTcOapO7ZN5SRNr8dM1oUAyKM/f:webp/h:120/q:80/L3RyYWNrcy9jMTU3ZmY4Mi04MmZhLTRlZGUtYTVlMC01NmQxYjQxYzM4NWUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/2Y2nfVH4Phnwr5iuS9qTcOapO7ZN5SRNr8dM1oUAyKM/f:webp/h:120/q:80/L3RyYWNrcy9jMTU3ZmY4Mi04MmZhLTRlZGUtYTVlMC01NmQxYjQxYzM4NWUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Órbi Web Games Developer</b><br><img src="https://assets.dio.me/jNgPu_zaOIey8vouxLLFm9yqXMy6dm3XeY6y3uaUlZs/f:webp/h:120/q:80/L3RyYWNrcy81YTBlZjJiZi04Y2NhLTRiZTctYjUwNi0zOTQ1ZmJiOGYxZDQucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jNgPu_zaOIey8vouxLLFm9yqXMy6dm3XeY6y3uaUlZs/f:webp/h:120/q:80/L3RyYWNrcy81YTBlZjJiZi04Y2NhLTRiZTctYjUwNi0zOTQ1ZmJiOGYxZDQucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Philips Fullstack Developer | You Are You</b><br><img src="https://assets.dio.me/np7ou5ZaImtkfozbPpYcn6891cswT3tJSdmrkn00Yog/f:webp/h:120/q:80/L3RyYWNrcy8wMTY4OTAyZC1lNzAzLTRhNTEtYWY3YS1lY2VkYTY5NjM3ZjEucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/np7ou5ZaImtkfozbPpYcn6891cswT3tJSdmrkn00Yog/f:webp/h:120/q:80/L3RyYWNrcy8wMTY4OTAyZC1lNzAzLTRhNTEtYWY3YS1lY2VkYTY5NjM3ZjEucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Impulso Fullstack Web Developer</b><br><img src="https://assets.dio.me/DFyXo3KV5dTSKU8Qnei68Q38njU2xw-dcZpbBTgpn_U/f:webp/h:120/q:80/L3RyYWNrcy80ZTE4ODdjMi1lNDM0LTQ4MTYtOGYwYS04YWViMTQ5NTY5N2IucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/DFyXo3KV5dTSKU8Qnei68Q38njU2xw-dcZpbBTgpn_U/f:webp/h:120/q:80/L3RyYWNrcy80ZTE4ODdjMi1lNDM0LTQ4MTYtOGYwYS04YWViMTQ5NTY5N2IucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+
+</table>
+
+---
+
 <h2 id="comptia">CompTIA</h2>
 
 <table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
@@ -400,47 +1363,310 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 </tr>
 
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>CompTIA A+ ce Certification</b>
-
-<img src="https://via.placeholder.com/105?text=CompTIA+A+" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://via.placeholder.com/105?text=CompTIA+A+" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Security+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
 </tr>
-
 <tr>
-
-<td align="center" style="vertical-align: middle;">
-
-<b>CompTIA Security+ ce Certification</b>
-
-<img src="https://via.placeholder.com/105?text=CompTIA+Security+" height="105"/>
-
-</td>
-
-<td style="vertical-align: middle;">
-
-<pre>
-&lt;a href="(link do comprovante)" target="_blank"&gt;
-  &lt;img src="https://via.placeholder.com/105?text=CompTIA+Security+" height="105"/&gt;
-&lt;/a&gt;
-</pre>
-
-</td>
-
+  <td align="center" style="vertical-align: middle;"><b>CompTIA A+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA IT Operations Specialist – CIOS Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA CySA+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Security Analytics Professional – CSAP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA IT Fundamentals+ (ITF+) Certification</b><br><img src="https://images.credly.com/size/680x680/images/a49be93a-34ff-4224-996c-b2c976a5dc9d/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/a49be93a-34ff-4224-996c-b2c976a5dc9d/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA SecurityX ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/5343b652-c9a0-418e-bfaf-7ed5a2ddd0c4/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/5343b652-c9a0-418e-bfaf-7ed5a2ddd0c4/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA PenTest+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Cloud+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Security+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/dbb39f01-125f-45c1-885c-38ff832cc686/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/dbb39f01-125f-45c1-885c-38ff832cc686/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Project+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/dbc9a5b0-1650-4b8d-a6a6-6dba09d09509/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/dbc9a5b0-1650-4b8d-a6a6-6dba09d09509/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network Security Professional – CNSP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/6f68e302-2193-4cbc-b2d9-50541a130ffa/CompTIA_CNSP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/6f68e302-2193-4cbc-b2d9-50541a130ffa/CompTIA_CNSP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Linux+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network Infrastructure Professional – CNIP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/f308a5b0-18e3-4e93-ae15-9f27dd0a94cc/CompTIA_CNIP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/f308a5b0-18e3-4e93-ae15-9f27dd0a94cc/CompTIA_CNIP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Secure Cloud Professional – CSCP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA IT Fundamentals Certification</b><br><img src="https://images.credly.com/size/680x680/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Linux Network Professional – CLNP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/d68e17f2-b591-4f2e-ae64-414ba82665f4/CompTIA_CLNP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/d68e17f2-b591-4f2e-ae64-414ba82665f4/CompTIA_CLNP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Systems Support Specialist – CSSS Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/802502c7-7b2c-4a96-82b0-e6aa5796e878/CompTIA_CSSS.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/802502c7-7b2c-4a96-82b0-e6aa5796e878/CompTIA_CSSS.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA A+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Cloud Admin Professional – CCAP Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Linux+ (powered by LPI) Certification</b><br><img src="https://images.credly.com/size/680x680/images/2bcdc7b3-af83-4f15-ae33-d539fc8cedbf/CompTIA_Linux_2BLPI.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/2bcdc7b3-af83-4f15-ae33-d539fc8cedbf/CompTIA_Linux_2BLPI.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Security Analytics Expert – CSAE Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/93d16d4a-223f-41bd-aaad-6a491b7b1fa8/CompTIA_CSAE.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/93d16d4a-223f-41bd-aaad-6a491b7b1fa8/CompTIA_CSAE.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Tech+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/d358c04b-d081-424f-8221-d5d63f76c144/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/d358c04b-d081-424f-8221-d5d63f76c144/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Cloud Essentials Certification</b><br><img src="https://images.credly.com/size/680x680/images/ade4f3d0-eea8-49ec-ad2c-fba2822de7bc/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/ade4f3d0-eea8-49ec-ad2c-fba2822de7bc/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Cloud Essentials+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/4ce4951a-6d07-44bb-8fa8-356804f5080b/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/4ce4951a-6d07-44bb-8fa8-356804f5080b/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Data+ ce</b><br><img src="https://images.credly.com/size/680x680/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Secure Infrastructure Expert – CSIE Stackable Certification</b><br><img src="https://images.credly.com/size/680x680/images/4e8cb067-ff0a-4b3e-bf5d-7290ba25d0d6/CompTIA_CSIE.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/4e8cb067-ff0a-4b3e-bf5d-7290ba25d0d6/CompTIA_CSIE.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Project+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/16e139a1-0b3d-4bef-a0c6-56356ad944a6/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/16e139a1-0b3d-4bef-a0c6-56356ad944a6/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA IT Fundamentals</b><br><img src="https://images.credly.com/size/680x680/images/d35263a3-4174-4cab-91ae-1116ad73edc8/CompTIA_ITFund.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/d35263a3-4174-4cab-91ae-1116ad73edc8/CompTIA_ITFund.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Server+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/3a331417-6c16-4e68-a89c-4ba939d78b83/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/3a331417-6c16-4e68-a89c-4ba939d78b83/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Linux+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA CTT+ Virtual Classroom Trainer Certification</b><br><img src="https://images.credly.com/size/680x680/images/f16139cd-cdf2-4b6d-a3bb-3941718fb0e9/CompTIA_CTT_2B.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/f16139cd-cdf2-4b6d-a3bb-3941718fb0e9/CompTIA_CTT_2B.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA CTT+ Classroom Trainer Certification</b><br><img src="https://images.credly.com/size/680x680/images/236c0c68-7fc5-4cbe-9028-b35b0b9fbf0c/CompTIA_CTT_2B.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/236c0c68-7fc5-4cbe-9028-b35b0b9fbf0c/CompTIA_CTT_2B.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Project+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/8ec89608-97f1-4c0b-baa0-784a1a261d6a/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/8ec89608-97f1-4c0b-baa0-784a1a261d6a/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Server+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/07378420-4407-4f09-a4d7-9301d87dec34/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/07378420-4407-4f09-a4d7-9301d87dec34/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Subject Matter Expert</b><br><img src="https://images.credly.com/size/680x680/images/b069118f-190c-4e8f-824f-b60fb23dc4eb/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/b069118f-190c-4e8f-824f-b60fb23dc4eb/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA DataSys+ ce Certification</b><br><img src="https://images.credly.com/size/680x680/images/71839d60-b1ba-43d4-a392-98da0e1b7d29/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/71839d60-b1ba-43d4-a392-98da0e1b7d29/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA SecAI+ Certification</b><br><img src="https://images.credly.com/size/680x680/images/7c798dfc-1610-42c6-8729-2b735f88fab0/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/7c798dfc-1610-42c6-8729-2b735f88fab0/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>A+ ProSkills</b><br><img src="https://images.credly.com/size/680x680/images/1f8834bf-b858-46ca-8aad-19ce3a4c07fe/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/1f8834bf-b858-46ca-8aad-19ce3a4c07fe/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA CloudNetX ce</b><br><img src="https://images.credly.com/size/680x680/images/16b097aa-10b3-4c90-9f96-f7b43ffa6cb4/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/16b097aa-10b3-4c90-9f96-f7b43ffa6cb4/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA DataAI ce</b><br><img src="https://images.credly.com/size/680x680/images/3da804aa-1ea4-4248-9ad6-1ca479a72ce1/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/3da804aa-1ea4-4248-9ad6-1ca479a72ce1/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Certification SME Technical Advisory Committee</b><br><img src="https://images.credly.com/size/680x680/images/c435766b-dada-4e65-8851-1976451ea8dd/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c435766b-dada-4e65-8851-1976451ea8dd/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network of Experts – Contributor (NoE-C)</b><br><img src="https://images.credly.com/size/680x680/images/a3c9e508-8858-4be2-9ffa-99921187cbe5/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/a3c9e508-8858-4be2-9ffa-99921187cbe5/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Certification Advisory Committee</b><br><img src="https://images.credly.com/size/680x680/images/d8fe935e-0835-450b-aadc-c7b5982906b5/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/d8fe935e-0835-450b-aadc-c7b5982906b5/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Certification Governance Committee</b><br><img src="https://images.credly.com/size/680x680/images/c7fc4551-6f23-419a-bcd0-2c91a6375331/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/c7fc4551-6f23-419a-bcd0-2c91a6375331/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>CompTIA Network of Experts - Ambassador (NoE-A)</b><br><img src="https://images.credly.com/size/680x680/images/dccd3e8d-a47e-4e5d-84b2-488d57ce1891/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/dccd3e8d-a47e-4e5d-84b2-488d57ce1891/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Localization SME</b><br><img src="https://images.credly.com/size/680x680/images/dcfda7ff-5464-45ec-a711-37ef786e90b6/blob" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/size/680x680/images/dcfda7ff-5464-45ec-a711-37ef786e90b6/blob" height="105"/&gt;
+&lt;/a&gt;</pre></td>
 </tr>
 
 </table>

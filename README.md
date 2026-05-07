@@ -6,8 +6,8 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 
 ## 💡 Como usar
 
-1. Copie o código da certificação desejada  
-2. Cole no README do seu perfil GitHub  
+1. Copie o código da certificação desejada
+2. Cole no README do seu perfil GitHub
 3. Substitua:
 
 - `(link do comprovante)` pelo link do seu certificado
@@ -23,6 +23,7 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 - <a href="#meta">Meta</a>
 - <a href="#comptia">CompTIA</a>
 - <a href="#dio">DIO</a>
+- <a href="#redhat">Red Hat</a>
 
 ---
 
@@ -3397,6 +3398,48 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
   <td align="center" style="vertical-align: middle;"><b>Google Cloud Certified Fellow: Hybrid Multicloud</b><br><img src="https://images.credly.com/size/680x680/images/7bed9101-fe30-4aba-9883-121ec5b786c4/image.png" height="105"/></td>
   <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://images.credly.com/size/680x680/images/7bed9101-fe30-4aba-9883-121ec5b786c4/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+
+</table>
+
+---
+
+<h2 id="redhat">Red Hat</h2>
+ 
+<table style="overflow-x: auto; width: 1200px; min-width: 1200px;">
+<tr>
+      <th width="500px">Certificação</th>
+      <th>Código</th>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Red Hat Certified System Administrator (RHCSA)</b><br><img src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Red Hat Certified Engineer (RHCE)</b><br><img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Red Hat Certified Architect (RHCA)</b><br><img src="https://images.credly.com/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Red Hat Certified OpenShift Administrator</b><br><img src="https://images.credly.com/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Red Hat Certified Specialist in Ansible Automation</b><br><img src="https://images.credly.com/images/2f835cd9-20d9-4251-b478-d4b17814b850/image.png" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://images.credly.com/images/2f835cd9-20d9-4251-b478-d4b17814b850/image.png" height="105"/&gt;
 &lt;/a&gt;</pre></td>
 </tr>
 

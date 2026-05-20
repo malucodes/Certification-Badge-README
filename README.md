@@ -147,6 +147,78 @@ Este repositório reúne **badges de certificações** prontas para adicionar no
 </tr>
 
 <tr>
+  <td align="center" style="vertical-align: middle;"><b>GFT - Fundamentos de Cloud com AWS</b><br><img src="https://assets.dio.me/jIWFTx6rbzd47CYRs8idESPlp3Scw4L_5cAkLlXmBNY/f:webp/h:120/q:80/L3RyYWNrcy9iYWRnZS9lODhjOTliMi03ZjBhLTQwYTYtYmQ3NS05MmZkZTFhY2QwZjgucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/jIWFTx6rbzd47CYRs8idESPlp3Scw4L_5cAkLlXmBNY/f:webp/h:120/q:80/L3RyYWNrcy9iYWRnZS9lODhjOTliMi03ZjBhLTQwYTYtYmQ3NS05MmZkZTFhY2QwZjgucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander- Excel com IA e Claude</b><br><img src="https://assets.dio.me/L78hcmX9dY0WzTKK07mJFPXx0_x0jNbV0THQ480a-OU/f:webp/h:120/q:80/L3RyYWNrcy82MDUwMjIxZC1mNWY5LTRjMGQtYjc0NS1mYWFjODM5NDk5NmEucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/L78hcmX9dY0WzTKK07mJFPXx0_x0jNbV0THQ480a-OU/f:webp/h:120/q:80/L3RyYWNrcy82MDUwMjIxZC1mNWY5LTRjMGQtYjc0NS1mYWFjODM5NDk5NmEucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Bootcamp Afya - Automação de Dados com IA</b><br><img src="https://assets.dio.me/cm9qoMH32q1pylkf80Gl-BCujQa2e9b0znmvLh8xlok/f:webp/h:120/q:80/L3RyYWNrcy9jM2FhODY3OS1hZjU1LTQ3ZjYtOGVlMy0zYzNlODhhMzA1YTIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/cm9qoMH32q1pylkf80Gl-BCujQa2e9b0znmvLh8xlok/f:webp/h:120/q:80/L3RyYWNrcy9jM2FhODY3OS1hZjU1LTQ3ZjYtOGVlMy0zYzNlODhhMzA1YTIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - AI TikTok Creator</b><br><img src="https://assets.dio.me/9OTK8aHwHTf_Vi8N_Y4U1xrXwRtVxWJGrf53nilPj5s/f:webp/h:120/q:80/L3RyYWNrcy9jN2RkNmY2OC1iYmU0LTQ3ZjgtYWI0Ni0yZjkwODQ5ZTQ4MDIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/9OTK8aHwHTf_Vi8N_Y4U1xrXwRtVxWJGrf53nilPj5s/f:webp/h:120/q:80/L3RyYWNrcy9jN2RkNmY2OC1iYmU0LTQ3ZjgtYWI0Ni0yZjkwODQ5ZTQ4MDIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - AI Data Marketing Creator</b><br><img src="https://assets.dio.me/BT-95KgIkmtVuXUAw8HiLz7V5YvGTb85F12AABKPPOc/f:webp/h:120/q:80/L3RyYWNrcy8zNzU5ODEwYS0yZjI0LTQwOWMtYWRlYi1hNWQzYjc5OTc1MWUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/BT-95KgIkmtVuXUAw8HiLz7V5YvGTb85F12AABKPPOc/f:webp/h:120/q:80/L3RyYWNrcy8zNzU5ODEwYS0yZjI0LTQwOWMtYWRlYi1hNWQzYjc5OTc1MWUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Santander - AI Social Media Creator</b><br><img src="https://assets.dio.me/5F-C3TtMiX8Fudhnv1vzLgWdZOj5Nj-BmTLbqpakxoY/f:webp/h:120/q:80/L3RyYWNrcy9hZmE4MDNkNy00MTJjLTRlYzktOGZiYi0zOTI1NGNiN2EwYTYucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/5F-C3TtMiX8Fudhnv1vzLgWdZOj5Nj-BmTLbqpakxoY/f:webp/h:120/q:80/L3RyYWNrcy9hZmE4MDNkNy00MTJjLTRlYzktOGZiYi0zOTI1NGNiN2EwYTYucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Microsoft - GitHub Copilot e Azure Serverless na Prática</b><br><img src="https://assets.dio.me/LTDRslcA8f_BKmek3KkoX4pvGmV-Ok0Hub8GV1XMKAw/f:webp/h:120/q:80/L3RyYWNrcy9iZjYzNmM5Yy1mNjY5LTRjZTYtOWExNy1mZmE2NTVkNzJiMmMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/LTDRslcA8f_BKmek3KkoX4pvGmV-Ok0Hub8GV1XMKAw/f:webp/h:120/q:80/L3RyYWNrcy9iZjYzNmM5Yy1mNjY5LTRjZTYtOWExNy1mZmE2NTVkNzJiMmMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Bootcamp HEINEKEN - Inteligência Artificial Aplicada a Vendas</b><br><img src="https://assets.dio.me/oqYUmYA2uwhF_1BLS80zYI60P8_MyAgENhEATE0Dp7E/f:webp/h:120/q:80/L3RyYWNrcy84YjgwYzdmNi0wNzY1LTQ1YTItYTVjNi03MmYwNzBkOWRhNjUucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/oqYUmYA2uwhF_1BLS80zYI60P8_MyAgENhEATE0Dp7E/f:webp/h:120/q:80/L3RyYWNrcy84YjgwYzdmNi0wNzY1LTQ1YTItYTVjNi03MmYwNzBkOWRhNjUucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Bootcamp NTT DATA: Backend Java com Spring AI</b><br><img src="https://assets.dio.me/R8SH7yRLWOLRD-UaFsb0WcSZqEstglQk1Stv7_iLSsA/f:webp/h:120/q:80/L3RyYWNrcy9kNmRkMzhkMC04MTUyLTQxODAtOTAzNi00NTcxZjM4ZDZhODIucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/R8SH7yRLWOLRD-UaFsb0WcSZqEstglQk1Stv7_iLSsA/f:webp/h:120/q:80/L3RyYWNrcy9kNmRkMzhkMC04MTUyLTQxODAtOTAzNi00NTcxZjM4ZDZhODIucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Bootcamp Bradesco - GenAI, Dados & Cyber</b><br><img src="https://assets.dio.me/_sbkzRLBTU5zD7nDm0BuBr1gulSK7E8Hw46tpr1CGjE/f:webp/h:120/q:80/L3RyYWNrcy8xZTk5YzNkYS0wMTE4LTRkMTgtOTNiMC04YTQ3MmM4YTg3YTcucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/_sbkzRLBTU5zD7nDm0BuBr1gulSK7E8Hw46tpr1CGjE/f:webp/h:120/q:80/L3RyYWNrcy8xZTk5YzNkYS0wMTE4LTRkMTgtOTNiMC04YTQ3MmM4YTg3YTcucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Globant - Java & Spring Boot AI Developer</b><br><img src="https://assets.dio.me/FCIncJWzTuALBQaqYQzbTUcAeq8IiFGhwQXqjmPcczs/f:webp/h:120/q:80/L3RyYWNrcy8yMGNhN2JiMy1mYWM0LTRkZTgtOTE5Yi1iM2VlODdlNTUxZjMucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/FCIncJWzTuALBQaqYQzbTUcAeq8IiFGhwQXqjmPcczs/f:webp/h:120/q:80/L3RyYWNrcy8yMGNhN2JiMy1mYWM0LTRkZTgtOTE5Yi1iM2VlODdlNTUxZjMucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
+  <td align="center" style="vertical-align: middle;"><b>Accenture - Python para Análise e Automação de Dados</b><br><img src="https://assets.dio.me/W41nwdXwRyOukz1841VUPaEdoiPn5f1-iKmKR4eUxUs/f:webp/h:120/q:80/L3RyYWNrcy8yNTBhNGVmMy05OGI3LTQyMWYtYjBhZi0wZDRhYTU3YWI2ZDgucG5n" height="105"/></td>
+  <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
+  &lt;img src="https://assets.dio.me/W41nwdXwRyOukz1841VUPaEdoiPn5f1-iKmKR4eUxUs/f:webp/h:120/q:80/L3RyYWNrcy8yNTBhNGVmMy05OGI3LTQyMWYtYjBhZi0wZDRhYTU3YWI2ZDgucG5n" height="105"/&gt;
+&lt;/a&gt;</pre></td>
+</tr>
+<tr>
   <td align="center" style="vertical-align: middle;"><b>Lupo - Primeiros Passos com Inteligência Artificial</b><br><img src="https://assets.dio.me/Thxa-qNMBcJGwJ_PSsYS9SoM22zVyKCkvMm9qwknQH4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzJjOGU0MjgtN2NhOS00NTc1LWJiMDUtYjMxOTM3Y2FhN2FjLnBuZw" height="105"/></td>
   <td style="vertical-align: middle;"><pre>&lt;a href="(link do comprovante)" target="_blank"&gt;
   &lt;img src="https://assets.dio.me/Thxa-qNMBcJGwJ_PSsYS9SoM22zVyKCkvMm9qwknQH4/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNzJjOGU0MjgtN2NhOS00NTc1LWJiMDUtYjMxOTM3Y2FhN2FjLnBuZw" height="105"/&gt;
